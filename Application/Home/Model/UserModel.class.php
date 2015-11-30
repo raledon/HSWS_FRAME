@@ -40,25 +40,8 @@ class UserModel extends Model{
      * 自动完成
      */
     protected $_auto = array (
-        array('password', 'md5', 3, 'function') , // 对password字段在新增和编辑的时候使md5函数处理
-        array('regdate', 'time', 1, 'function'), // 对regdate字段在新增的时候写入当前时间戳
-        array('regip', 'get_client_ip', 1, 'function'), // 对regip字段在新增的时候写入当前注册ip地址
+        array('createdAt', 'time', 1, 'function'), // 对regdate字段在新增的时候写入当前时间戳
+        
     );
  
-    /**
-     * 判断是否同意网站安全管理协议
-     * @return bool
-     */
-    protected function is_agree()
-    {
-        // 获取POST数据
-        $agree = I('post.agree', 0, 'intval');
- 
-        // 验证
-        if ($agree) {
-            return true;
-        } else {
-            return false;
-        }
-    }
 }

@@ -70,15 +70,17 @@ class LoginController extends Controller{
                 exit($user->getError());
             }
  
+            $id = $user->add($data);
             //插入数据库
-            if ($id = $user->add($data)) {
-                /* 直接注册用户为超级管理员,子用户采用邀请注册的模式,
+            
+//            if ($id = $user->add($data)) {
+               /* 直接注册用户为超级管理员,子用户采用邀请注册的模式,
                    遂设置公司id等于注册用户id,便于管理公司用户*/
-                $user->where("userid = $id")->setField('companyid', $id);
-                $this->success('注册成功', U('Index/index'), 2);
-            } else {
-                $this->error('注册失败');
-            }
+//                $user->where("userid = $id")->setField('companyid', $id);
+//                $this->success('注册成功', U('Index/index'), 2);
+//            } else {
+//                $this->error('注册失败');
+//            }
         } else {
             $this->display();
         }
@@ -107,7 +109,5 @@ class LoginController extends Controller{
         $verify->useImgBg = true;   // 开启验证码背景
         $verify->useNoise = false;  // 关闭验证码干扰杂点
         $verify->entry();
-
-        
-    }
+}
 }

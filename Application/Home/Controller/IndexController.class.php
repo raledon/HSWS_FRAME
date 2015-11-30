@@ -8,6 +8,5 @@ class IndexController extends Controller {
         //load('@.function'); 临时性加载当前目录下的function文件
         $userTable = M('user');
         $data = $userTable->select();
-        var_dump($data);
     }
 }
