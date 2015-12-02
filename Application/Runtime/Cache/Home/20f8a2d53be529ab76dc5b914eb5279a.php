@@ -1,19 +1,19 @@
-<!DOCTYPE html>
+<?php if (!defined('THINK_PATH')) exit();?><!DOCTYPE html>
 <html>
     <head>
         <title>主界面</title>
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <meta name="description" content="用户主界面">
-        <link href="__PUBLIC__/bootstrap/css/bootstrap.min.css" rel="stylesheet">
-        <link href="__PUBLIC__/startbootstrap/bower_components/bootstrap/dist/css/bootstrap.min.css" rel="stylesheet">
-        <link href="__PUBLIC__/startbootstrap/bower_components/metisMenu/dist/metisMenu.min.css" rel="stylesheet">
-        <link href="__PUBLIC__/startbootstrap/dist/css/timeline.css" rel="stylesheet">
-        <link href="__PUBLIC__/startbootstrap/dist/css/sb-admin-2.css" rel="stylesheet">
-        <link href="__PUBLIC__/startbootstrap/bower_components/morrisjs/morris.css" rel="stylesheet">
-        <link href="__PUBLIC__/startbootstrap/bower_components/font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">
+        <link href="/HSWS_FRAME/Public/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+        <link href="/HSWS_FRAME/Public/startbootstrap/bower_components/bootstrap/dist/css/bootstrap.min.css" rel="stylesheet">
+        <link href="/HSWS_FRAME/Public/startbootstrap/bower_components/metisMenu/dist/metisMenu.min.css" rel="stylesheet">
+        <link href="/HSWS_FRAME/Public/startbootstrap/dist/css/timeline.css" rel="stylesheet">
+        <link href="/HSWS_FRAME/Public/startbootstrap/dist/css/sb-admin-2.css" rel="stylesheet">
+        <link href="/HSWS_FRAME/Public/startbootstrap/bower_components/morrisjs/morris.css" rel="stylesheet">
+        <link href="/HSWS_FRAME/Public/startbootstrap/bower_components/font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">
         <link rel="stylesheet" href="../../../../Public/bootstrap/css/bootstrap.min.css" type="text/css"/>
-        <link rel="stylesheet" href="__PUBLIC__/css/carousel.css" type="text/css">
+        <link rel="stylesheet" href="/HSWS_FRAME/Public/css/carousel.css" type="text/css">
       
 
     </head>
@@ -29,7 +29,7 @@
                         <span class="icon-bar"></span>
                         <span class="icon-bar"></span>                       
                     </button>
-                    <a class="navbar-brand" href="{:U('Index/index')}">RunningOwl</a>
+                    <a class="navbar-brand" href="<?php echo U('Index/index');?>">RunningOwl</a>
                 </div>
                 <ul class="nav navbar-top-links navbar-right">
                     <li class="dropdown">
@@ -97,7 +97,7 @@
                                 </a>
                             </li>
                             <li>
-                                <a href="{:U('health/index')}" class>
+                                <a href="<?php echo U('health/index');?>" class>
                                     <i class="fa fa-heart fa-fw"></i>
                                     我的健康
                                 </a>                                                   
@@ -257,12 +257,12 @@
             </div>
         </div>
         
-        <script src="__PUBLIC__/startbootstrap/bower_components/jquery/dist/jquery.min.js"></script>
-        <script src="__PUBLIC__/startbootstrap/bower_components/bootstrap/dist/js/bootstrap.min.js"></script>
-        <script src="__PUBLIC__/startbootstrap/bower_components/metisMenu/dist/metisMenu.min.js"></script>
-        <script src="__PUBLIC__/startbootstrap/bower_components/raphael/raphael-min.js"></script>
-        <script src="__PUBLIC__/startbootstrap/bower_components/morrisjs/morris.min.js"></script>
-        <script src="__PUBLIC__/startbootstrap/js/morris-data.js"></script>
-        <script src="__PUBLIC__/startbootstrap/dist/js/sb-admin-2.js"></script>
+        <script src="/HSWS_FRAME/Public/startbootstrap/bower_components/jquery/dist/jquery.min.js"></script>
+        <script src="/HSWS_FRAME/Public/startbootstrap/bower_components/bootstrap/dist/js/bootstrap.min.js"></script>
+        <script src="/HSWS_FRAME/Public/startbootstrap/bower_components/metisMenu/dist/metisMenu.min.js"></script>
+        <script src="/HSWS_FRAME/Public/startbootstrap/bower_components/raphael/raphael-min.js"></script>
+        <script src="/HSWS_FRAME/Public/startbootstrap/bower_components/morrisjs/morris.min.js"></script>
+        <script src="/HSWS_FRAME/Public/startbootstrap/js/morris-data.js"></script>
+        <script src="/HSWS_FRAME/Public/startbootstrap/dist/js/sb-admin-2.js"></script>
     </body>
 </html>

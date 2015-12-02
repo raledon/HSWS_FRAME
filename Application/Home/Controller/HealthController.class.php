@@ -16,11 +16,12 @@ use Think\Controller;
 class HealthController extends Controller{
     //put your code here
     public function index(){
-        
+        $this->display('sleep');
     }
     
     public function sleep(){
-        $this->getSleepByDay(1,'2015-12-02');
+        $this->display();
+        //$this->getSleepByDay(1,'2015-12-02');
         
     }
     
