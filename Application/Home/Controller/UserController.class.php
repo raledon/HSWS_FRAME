@@ -14,15 +14,18 @@
 namespace Home\Controller;
 use Think\Controller;
 class UserController extends Controller{
+    
+    public function index(){
+       // $this->userList();
+    }
     //put your code here
     public function userList(){
          
-        $list = M('users')->where(array('userid' => $this->userid))->find();
+        $list = M('user')->find();
 
         var_dump($list);
     }
     
+    
 }
 
-$c = new UserController();
-$c->userList();

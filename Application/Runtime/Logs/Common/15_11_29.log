@@ -1,0 +1,18 @@
+[ 2015-11-29T00:10:48+08:00 ] ::1 /HSWS_FRAME/index.php/m=test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000785s ]
+ERR: 无法加载模块:M=test
+
+[ 2015-11-29T00:11:17+08:00 ] ::1 /HSWS_FRAME/index.php?m=test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000044s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001077s ]
+ERR: 无法加载模块:Test
+
+[ 2015-11-29T00:13:07+08:00 ] ::1 /HSWS_FRAME/index.php?m=index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000882s ]
+ERR: 无法加载模块:Index
+

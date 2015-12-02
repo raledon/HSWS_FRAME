@@ -1,0 +1,1454 @@
+[ 2015-11-30T22:25:42+08:00 ] ::1 /HSWS_FRAME/index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000043s ]
+INFO: [ app_init ] --END-- [ RunTime:0.017855s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000918s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001069s ]
+INFO: [ view_parse ] --START--
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.000292s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.000398s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000176s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000241s ]
+ERR: 无法加载数据库驱动: Think\Db\Driver\Pdo
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/View.class.php:95) /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Think.class.php 第 229 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/View.class.php:95) /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Think.class.php 第 230 行.
+
+[ 2015-11-30T22:30:50+08:00 ] ::1 /HSWS_FRAME/index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000040s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001183s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001242s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001390s ]
+INFO: [ view_parse ] --START--
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.020798s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.020972s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000570s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000659s ]
+ERR: 无法加载数据库驱动: Think\Db\Driver\Pdo
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/View.class.php:95) /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Think.class.php 第 229 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/View.class.php:95) /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Think.class.php 第 230 行.
+
+[ 2015-11-30T22:31:04+08:00 ] ::1 /HSWS_FRAME/index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000048s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001593s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001110s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001237s ]
+INFO: [ view_parse ] --START--
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.018371s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.018558s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000513s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000607s ]
+ERR: 无法加载数据库驱动: Think\Db\Driver\Pdo
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/View.class.php:95) /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Think.class.php 第 229 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/View.class.php:95) /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Think.class.php 第 230 行.
+
+[ 2015-11-30T22:34:46+08:00 ] ::1 /HSWS_FRAME/index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000045s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001843s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.005116s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005272s ]
+INFO: [ view_parse ] --START--
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.040063s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.040200s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001254s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001343s ]
+ERR: 无法加载数据库驱动: Think\Db\Driver\Pdo
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/View.class.php:95) /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Think.class.php 第 229 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/View.class.php:95) /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Think.class.php 第 230 行.
+
+[ 2015-11-30T22:35:35+08:00 ] ::1 /HSWS_FRAME/index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000058s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001199s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001237s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001398s ]
+INFO: [ view_parse ] --START--
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.018351s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.018521s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000573s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000652s ]
+ERR: 无法加载数据库驱动: Think\Db\Driver\Pdo
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/View.class.php:95) /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Think.class.php 第 229 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/View.class.php:95) /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Think.class.php 第 230 行.
+
+[ 2015-11-30T22:35:48+08:00 ] ::1 /HSWS_FRAME/index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000549s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000581s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000659s ]
+INFO: [ view_parse ] --START--
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.000225s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.000301s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000164s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000239s ]
+SQL: PRAGMA table_info( user ) [ RunTime:0.0025s ]
+NOTIC: [8] Undefined index: field /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 42 行.
+NOTIC: [8] Undefined index: field /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 43 行.
+NOTIC: [8] Undefined index: null /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 45 行.
+NOTIC: [8] Undefined index: default /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 46 行.
+NOTIC: [8] Undefined index: dey /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 47 行.
+NOTIC: [8] Undefined index: extra /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 48 行.
+NOTIC: [8] Undefined index: field /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 42 行.
+NOTIC: [8] Undefined index: field /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 43 行.
+NOTIC: [8] Undefined index: null /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 45 行.
+NOTIC: [8] Undefined index: default /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 46 行.
+NOTIC: [8] Undefined index: dey /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 47 行.
+NOTIC: [8] Undefined index: extra /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 48 行.
+NOTIC: [8] Undefined index: field /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 42 行.
+NOTIC: [8] Undefined index: field /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 43 行.
+NOTIC: [8] Undefined index: null /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 45 行.
+NOTIC: [8] Undefined index: default /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 46 行.
+NOTIC: [8] Undefined index: dey /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 47 行.
+NOTIC: [8] Undefined index: extra /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 48 行.
+NOTIC: [8] Undefined index: field /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 42 行.
+NOTIC: [8] Undefined index: field /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 43 行.
+NOTIC: [8] Undefined index: null /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 45 行.
+NOTIC: [8] Undefined index: default /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 46 行.
+NOTIC: [8] Undefined index: dey /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 47 行.
+NOTIC: [8] Undefined index: extra /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 48 行.
+NOTIC: [8] Undefined index: field /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 42 行.
+NOTIC: [8] Undefined index: field /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 43 行.
+NOTIC: [8] Undefined index: null /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 45 行.
+NOTIC: [8] Undefined index: default /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 46 行.
+NOTIC: [8] Undefined index: dey /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 47 行.
+NOTIC: [8] Undefined index: extra /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 48 行.
+NOTIC: [8] Undefined index: field /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 42 行.
+NOTIC: [8] Undefined index: field /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 43 行.
+NOTIC: [8] Undefined index: null /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 45 行.
+NOTIC: [8] Undefined index: default /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 46 行.
+NOTIC: [8] Undefined index: dey /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 47 行.
+NOTIC: [8] Undefined index: extra /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 48 行.
+NOTIC: [8] Undefined index: field /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 42 行.
+NOTIC: [8] Undefined index: field /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 43 行.
+NOTIC: [8] Undefined index: null /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 45 行.
+NOTIC: [8] Undefined index: default /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 46 行.
+NOTIC: [8] Undefined index: dey /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 47 行.
+NOTIC: [8] Undefined index: extra /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 48 行.
+NOTIC: [8] Undefined index: field /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 42 行.
+NOTIC: [8] Undefined index: field /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 43 行.
+NOTIC: [8] Undefined index: null /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 45 行.
+NOTIC: [8] Undefined index: default /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 46 行.
+NOTIC: [8] Undefined index: dey /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 47 行.
+NOTIC: [8] Undefined index: extra /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 48 行.
+NOTIC: [8] Undefined index: field /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 42 行.
+NOTIC: [8] Undefined index: field /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 43 行.
+NOTIC: [8] Undefined index: null /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 45 行.
+NOTIC: [8] Undefined index: default /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 46 行.
+NOTIC: [8] Undefined index: dey /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 47 行.
+NOTIC: [8] Undefined index: extra /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 48 行.
+NOTIC: [8] Undefined index: field /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 42 行.
+NOTIC: [8] Undefined index: field /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 43 行.
+NOTIC: [8] Undefined index: null /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 45 行.
+NOTIC: [8] Undefined index: default /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 46 行.
+NOTIC: [8] Undefined index: dey /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 47 行.
+NOTIC: [8] Undefined index: extra /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 48 行.
+NOTIC: [8] Undefined index: field /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 42 行.
+NOTIC: [8] Undefined index: field /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 43 行.
+NOTIC: [8] Undefined index: null /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 45 行.
+NOTIC: [8] Undefined index: default /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 46 行.
+NOTIC: [8] Undefined index: dey /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 47 行.
+NOTIC: [8] Undefined index: extra /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 48 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.055993s ]
+INFO: [ app_end ] --END-- [ RunTime:0.056134s ]
+
+[ 2015-11-30T22:35:48+08:00 ] ::1 /HSWS_FRAME/index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000560s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000686s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000780s ]
+INFO: [ view_parse ] --START--
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.000293s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.000474s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000220s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000301s ]
+SQL: PRAGMA table_info( user ) [ RunTime:0.0009s ]
+NOTIC: [8] Undefined index: field /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 42 行.
+NOTIC: [8] Undefined index: field /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 43 行.
+NOTIC: [8] Undefined index: null /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 45 行.
+NOTIC: [8] Undefined index: default /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 46 行.
+NOTIC: [8] Undefined index: dey /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 47 行.
+NOTIC: [8] Undefined index: extra /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 48 行.
+NOTIC: [8] Undefined index: field /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 42 行.
+NOTIC: [8] Undefined index: field /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 43 行.
+NOTIC: [8] Undefined index: null /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 45 行.
+NOTIC: [8] Undefined index: default /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 46 行.
+NOTIC: [8] Undefined index: dey /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 47 行.
+NOTIC: [8] Undefined index: extra /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 48 行.
+NOTIC: [8] Undefined index: field /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 42 行.
+NOTIC: [8] Undefined index: field /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 43 行.
+NOTIC: [8] Undefined index: null /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 45 行.
+NOTIC: [8] Undefined index: default /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 46 行.
+NOTIC: [8] Undefined index: dey /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 47 行.
+NOTIC: [8] Undefined index: extra /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 48 行.
+NOTIC: [8] Undefined index: field /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 42 行.
+NOTIC: [8] Undefined index: field /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 43 行.
+NOTIC: [8] Undefined index: null /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 45 行.
+NOTIC: [8] Undefined index: default /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 46 行.
+NOTIC: [8] Undefined index: dey /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 47 行.
+NOTIC: [8] Undefined index: extra /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 48 行.
+NOTIC: [8] Undefined index: field /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 42 行.
+NOTIC: [8] Undefined index: field /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 43 行.
+NOTIC: [8] Undefined index: null /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 45 行.
+NOTIC: [8] Undefined index: default /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 46 行.
+NOTIC: [8] Undefined index: dey /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 47 行.
+NOTIC: [8] Undefined index: extra /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 48 行.
+NOTIC: [8] Undefined index: field /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 42 行.
+NOTIC: [8] Undefined index: field /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 43 行.
+NOTIC: [8] Undefined index: null /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 45 行.
+NOTIC: [8] Undefined index: default /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 46 行.
+NOTIC: [8] Undefined index: dey /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 47 行.
+NOTIC: [8] Undefined index: extra /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 48 行.
+NOTIC: [8] Undefined index: field /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 42 行.
+NOTIC: [8] Undefined index: field /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 43 行.
+NOTIC: [8] Undefined index: null /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 45 行.
+NOTIC: [8] Undefined index: default /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 46 行.
+NOTIC: [8] Undefined index: dey /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 47 行.
+NOTIC: [8] Undefined index: extra /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 48 行.
+NOTIC: [8] Undefined index: field /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 42 行.
+NOTIC: [8] Undefined index: field /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 43 行.
+NOTIC: [8] Undefined index: null /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 45 行.
+NOTIC: [8] Undefined index: default /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 46 行.
+NOTIC: [8] Undefined index: dey /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 47 行.
+NOTIC: [8] Undefined index: extra /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 48 行.
+NOTIC: [8] Undefined index: field /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 42 行.
+NOTIC: [8] Undefined index: field /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 43 行.
+NOTIC: [8] Undefined index: null /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 45 行.
+NOTIC: [8] Undefined index: default /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 46 行.
+NOTIC: [8] Undefined index: dey /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 47 行.
+NOTIC: [8] Undefined index: extra /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 48 行.
+NOTIC: [8] Undefined index: field /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 42 行.
+NOTIC: [8] Undefined index: field /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 43 行.
+NOTIC: [8] Undefined index: null /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 45 行.
+NOTIC: [8] Undefined index: default /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 46 行.
+NOTIC: [8] Undefined index: dey /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 47 行.
+NOTIC: [8] Undefined index: extra /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 48 行.
+NOTIC: [8] Undefined index: field /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 42 行.
+NOTIC: [8] Undefined index: field /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 43 行.
+NOTIC: [8] Undefined index: null /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 45 行.
+NOTIC: [8] Undefined index: default /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 46 行.
+NOTIC: [8] Undefined index: dey /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 47 行.
+NOTIC: [8] Undefined index: extra /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 48 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000668s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000736s ]
+
+[ 2015-11-30T22:39:48+08:00 ] ::1 /HSWS_FRAME/index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000101s ]
+INFO: [ app_init ] --END-- [ RunTime:0.048134s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.073227s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.073447s ]
+INFO: [ view_parse ] --START--
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.078125s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.078292s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.055776s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.056003s ]
+SQL: PRAGMA table_info( user ) [ RunTime:0.0175s ]
+NOTIC: [8] Undefined index: field /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 42 行.
+NOTIC: [8] Undefined index: field /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 43 行.
+NOTIC: [8] Undefined index: null /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 45 行.
+NOTIC: [8] Undefined index: default /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 46 行.
+NOTIC: [8] Undefined index: dey /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 47 行.
+NOTIC: [8] Undefined index: extra /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 48 行.
+NOTIC: [8] Undefined index: field /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 42 行.
+NOTIC: [8] Undefined index: field /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 43 行.
+NOTIC: [8] Undefined index: null /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 45 行.
+NOTIC: [8] Undefined index: default /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 46 行.
+NOTIC: [8] Undefined index: dey /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 47 行.
+NOTIC: [8] Undefined index: extra /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 48 行.
+NOTIC: [8] Undefined index: field /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 42 行.
+NOTIC: [8] Undefined index: field /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 43 行.
+NOTIC: [8] Undefined index: null /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 45 行.
+NOTIC: [8] Undefined index: default /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 46 行.
+NOTIC: [8] Undefined index: dey /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 47 行.
+NOTIC: [8] Undefined index: extra /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 48 行.
+NOTIC: [8] Undefined index: field /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 42 行.
+NOTIC: [8] Undefined index: field /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 43 行.
+NOTIC: [8] Undefined index: null /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 45 行.
+NOTIC: [8] Undefined index: default /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 46 行.
+NOTIC: [8] Undefined index: dey /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 47 行.
+NOTIC: [8] Undefined index: extra /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 48 行.
+NOTIC: [8] Undefined index: field /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 42 行.
+NOTIC: [8] Undefined index: field /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 43 行.
+NOTIC: [8] Undefined index: null /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 45 行.
+NOTIC: [8] Undefined index: default /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 46 行.
+NOTIC: [8] Undefined index: dey /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 47 行.
+NOTIC: [8] Undefined index: extra /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 48 行.
+NOTIC: [8] Undefined index: field /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 42 行.
+NOTIC: [8] Undefined index: field /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 43 行.
+NOTIC: [8] Undefined index: null /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 45 行.
+NOTIC: [8] Undefined index: default /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 46 行.
+NOTIC: [8] Undefined index: dey /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 47 行.
+NOTIC: [8] Undefined index: extra /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 48 行.
+NOTIC: [8] Undefined index: field /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 42 行.
+NOTIC: [8] Undefined index: field /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 43 行.
+NOTIC: [8] Undefined index: null /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 45 行.
+NOTIC: [8] Undefined index: default /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 46 行.
+NOTIC: [8] Undefined index: dey /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 47 行.
+NOTIC: [8] Undefined index: extra /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 48 行.
+NOTIC: [8] Undefined index: field /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 42 行.
+NOTIC: [8] Undefined index: field /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 43 行.
+NOTIC: [8] Undefined index: null /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 45 行.
+NOTIC: [8] Undefined index: default /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 46 行.
+NOTIC: [8] Undefined index: dey /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 47 行.
+NOTIC: [8] Undefined index: extra /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 48 行.
+NOTIC: [8] Undefined index: field /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 42 行.
+NOTIC: [8] Undefined index: field /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 43 行.
+NOTIC: [8] Undefined index: null /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 45 行.
+NOTIC: [8] Undefined index: default /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 46 行.
+NOTIC: [8] Undefined index: dey /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 47 行.
+NOTIC: [8] Undefined index: extra /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 48 行.
+NOTIC: [8] Undefined index: field /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 42 行.
+NOTIC: [8] Undefined index: field /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 43 行.
+NOTIC: [8] Undefined index: null /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 45 行.
+NOTIC: [8] Undefined index: default /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 46 行.
+NOTIC: [8] Undefined index: dey /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 47 行.
+NOTIC: [8] Undefined index: extra /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 48 行.
+NOTIC: [8] Undefined index: field /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 42 行.
+NOTIC: [8] Undefined index: field /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 43 行.
+NOTIC: [8] Undefined index: null /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 45 行.
+NOTIC: [8] Undefined index: default /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 46 行.
+NOTIC: [8] Undefined index: dey /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 47 行.
+NOTIC: [8] Undefined index: extra /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 48 行.
+SQL: SELECT * FROM user  [ RunTime:0.0002s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.076937s ]
+INFO: [ app_end ] --END-- [ RunTime:0.077119s ]
+
+[ 2015-11-30T22:39:51+08:00 ] ::1 /HSWS_FRAME/index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000494s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000617s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000698s ]
+INFO: [ view_parse ] --START--
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.000210s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.000287s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000195s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000266s ]
+SQL: PRAGMA table_info( user ) [ RunTime:0.0005s ]
+NOTIC: [8] Undefined index: field /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 42 行.
+NOTIC: [8] Undefined index: field /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 43 行.
+NOTIC: [8] Undefined index: null /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 45 行.
+NOTIC: [8] Undefined index: default /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 46 行.
+NOTIC: [8] Undefined index: dey /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 47 行.
+NOTIC: [8] Undefined index: extra /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 48 行.
+NOTIC: [8] Undefined index: field /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 42 行.
+NOTIC: [8] Undefined index: field /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 43 行.
+NOTIC: [8] Undefined index: null /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 45 行.
+NOTIC: [8] Undefined index: default /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 46 行.
+NOTIC: [8] Undefined index: dey /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 47 行.
+NOTIC: [8] Undefined index: extra /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 48 行.
+NOTIC: [8] Undefined index: field /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 42 行.
+NOTIC: [8] Undefined index: field /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 43 行.
+NOTIC: [8] Undefined index: null /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 45 行.
+NOTIC: [8] Undefined index: default /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 46 行.
+NOTIC: [8] Undefined index: dey /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 47 行.
+NOTIC: [8] Undefined index: extra /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 48 行.
+NOTIC: [8] Undefined index: field /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 42 行.
+NOTIC: [8] Undefined index: field /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 43 行.
+NOTIC: [8] Undefined index: null /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 45 行.
+NOTIC: [8] Undefined index: default /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 46 行.
+NOTIC: [8] Undefined index: dey /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 47 行.
+NOTIC: [8] Undefined index: extra /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 48 行.
+NOTIC: [8] Undefined index: field /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 42 行.
+NOTIC: [8] Undefined index: field /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 43 行.
+NOTIC: [8] Undefined index: null /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 45 行.
+NOTIC: [8] Undefined index: default /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 46 行.
+NOTIC: [8] Undefined index: dey /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 47 行.
+NOTIC: [8] Undefined index: extra /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 48 行.
+NOTIC: [8] Undefined index: field /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 42 行.
+NOTIC: [8] Undefined index: field /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 43 行.
+NOTIC: [8] Undefined index: null /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 45 行.
+NOTIC: [8] Undefined index: default /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 46 行.
+NOTIC: [8] Undefined index: dey /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 47 行.
+NOTIC: [8] Undefined index: extra /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 48 行.
+NOTIC: [8] Undefined index: field /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 42 行.
+NOTIC: [8] Undefined index: field /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 43 行.
+NOTIC: [8] Undefined index: null /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 45 行.
+NOTIC: [8] Undefined index: default /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 46 行.
+NOTIC: [8] Undefined index: dey /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 47 行.
+NOTIC: [8] Undefined index: extra /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 48 行.
+NOTIC: [8] Undefined index: field /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 42 行.
+NOTIC: [8] Undefined index: field /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 43 行.
+NOTIC: [8] Undefined index: null /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 45 行.
+NOTIC: [8] Undefined index: default /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 46 行.
+NOTIC: [8] Undefined index: dey /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 47 行.
+NOTIC: [8] Undefined index: extra /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 48 行.
+NOTIC: [8] Undefined index: field /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 42 行.
+NOTIC: [8] Undefined index: field /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 43 行.
+NOTIC: [8] Undefined index: null /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 45 行.
+NOTIC: [8] Undefined index: default /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 46 行.
+NOTIC: [8] Undefined index: dey /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 47 行.
+NOTIC: [8] Undefined index: extra /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 48 行.
+NOTIC: [8] Undefined index: field /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 42 行.
+NOTIC: [8] Undefined index: field /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 43 行.
+NOTIC: [8] Undefined index: null /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 45 行.
+NOTIC: [8] Undefined index: default /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 46 行.
+NOTIC: [8] Undefined index: dey /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 47 行.
+NOTIC: [8] Undefined index: extra /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 48 行.
+NOTIC: [8] Undefined index: field /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 42 行.
+NOTIC: [8] Undefined index: field /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 43 行.
+NOTIC: [8] Undefined index: null /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 45 行.
+NOTIC: [8] Undefined index: default /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 46 行.
+NOTIC: [8] Undefined index: dey /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 47 行.
+NOTIC: [8] Undefined index: extra /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 48 行.
+SQL: SELECT * FROM user  [ RunTime:0.0001s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000609s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000673s ]
+
+[ 2015-11-30T23:01:25+08:00 ] ::1 /HSWS_FRAME/index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001002s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001269s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001410s ]
+INFO: [ view_parse ] --START--
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.026282s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.028019s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000610s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000690s ]
+SQL: PRAGMA table_info( user ) [ RunTime:0.0017s ]
+NOTIC: [8] Undefined index: field /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 42 行.
+NOTIC: [8] Undefined index: field /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 43 行.
+NOTIC: [8] Undefined index: null /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 45 行.
+NOTIC: [8] Undefined index: default /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 46 行.
+NOTIC: [8] Undefined index: dey /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 47 行.
+NOTIC: [8] Undefined index: extra /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 48 行.
+NOTIC: [8] Undefined index: field /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 42 行.
+NOTIC: [8] Undefined index: field /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 43 行.
+NOTIC: [8] Undefined index: null /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 45 行.
+NOTIC: [8] Undefined index: default /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 46 行.
+NOTIC: [8] Undefined index: dey /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 47 行.
+NOTIC: [8] Undefined index: extra /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 48 行.
+NOTIC: [8] Undefined index: field /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 42 行.
+NOTIC: [8] Undefined index: field /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 43 行.
+NOTIC: [8] Undefined index: null /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 45 行.
+NOTIC: [8] Undefined index: default /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 46 行.
+NOTIC: [8] Undefined index: dey /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 47 行.
+NOTIC: [8] Undefined index: extra /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 48 行.
+NOTIC: [8] Undefined index: field /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 42 行.
+NOTIC: [8] Undefined index: field /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 43 行.
+NOTIC: [8] Undefined index: null /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 45 行.
+NOTIC: [8] Undefined index: default /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 46 行.
+NOTIC: [8] Undefined index: dey /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 47 行.
+NOTIC: [8] Undefined index: extra /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 48 行.
+NOTIC: [8] Undefined index: field /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 42 行.
+NOTIC: [8] Undefined index: field /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 43 行.
+NOTIC: [8] Undefined index: null /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 45 行.
+NOTIC: [8] Undefined index: default /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 46 行.
+NOTIC: [8] Undefined index: dey /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 47 行.
+NOTIC: [8] Undefined index: extra /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 48 行.
+NOTIC: [8] Undefined index: field /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 42 行.
+NOTIC: [8] Undefined index: field /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 43 行.
+NOTIC: [8] Undefined index: null /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 45 行.
+NOTIC: [8] Undefined index: default /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 46 行.
+NOTIC: [8] Undefined index: dey /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 47 行.
+NOTIC: [8] Undefined index: extra /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 48 行.
+NOTIC: [8] Undefined index: field /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 42 行.
+NOTIC: [8] Undefined index: field /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 43 行.
+NOTIC: [8] Undefined index: null /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 45 行.
+NOTIC: [8] Undefined index: default /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 46 行.
+NOTIC: [8] Undefined index: dey /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 47 行.
+NOTIC: [8] Undefined index: extra /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 48 行.
+NOTIC: [8] Undefined index: field /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 42 行.
+NOTIC: [8] Undefined index: field /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 43 行.
+NOTIC: [8] Undefined index: null /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 45 行.
+NOTIC: [8] Undefined index: default /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 46 行.
+NOTIC: [8] Undefined index: dey /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 47 行.
+NOTIC: [8] Undefined index: extra /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 48 行.
+NOTIC: [8] Undefined index: field /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 42 行.
+NOTIC: [8] Undefined index: field /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 43 行.
+NOTIC: [8] Undefined index: null /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 45 行.
+NOTIC: [8] Undefined index: default /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 46 行.
+NOTIC: [8] Undefined index: dey /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 47 行.
+NOTIC: [8] Undefined index: extra /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 48 行.
+NOTIC: [8] Undefined index: field /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 42 行.
+NOTIC: [8] Undefined index: field /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 43 行.
+NOTIC: [8] Undefined index: null /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 45 行.
+NOTIC: [8] Undefined index: default /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 46 行.
+NOTIC: [8] Undefined index: dey /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 47 行.
+NOTIC: [8] Undefined index: extra /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 48 行.
+NOTIC: [8] Undefined index: field /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 42 行.
+NOTIC: [8] Undefined index: field /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 43 行.
+NOTIC: [8] Undefined index: null /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 45 行.
+NOTIC: [8] Undefined index: default /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 46 行.
+NOTIC: [8] Undefined index: dey /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 47 行.
+NOTIC: [8] Undefined index: extra /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 48 行.
+SQL: SELECT * FROM user  [ RunTime:0.0001s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001681s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001885s ]
+
+[ 2015-11-30T23:08:38+08:00 ] ::1 /HSWS_FRAME/index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000521s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000654s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000749s ]
+INFO: [ view_parse ] --START--
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.000204s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.000297s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000155s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000225s ]
+SQL: PRAGMA table_info( user ) [ RunTime:0.0212s ]
+NOTIC: [8] Undefined index: field /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 42 行.
+NOTIC: [8] Undefined index: field /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 43 行.
+NOTIC: [8] Undefined index: null /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 45 行.
+NOTIC: [8] Undefined index: default /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 46 行.
+NOTIC: [8] Undefined index: dey /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 47 行.
+NOTIC: [8] Undefined index: extra /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 48 行.
+NOTIC: [8] Undefined index: field /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 42 行.
+NOTIC: [8] Undefined index: field /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 43 行.
+NOTIC: [8] Undefined index: null /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 45 行.
+NOTIC: [8] Undefined index: default /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 46 行.
+NOTIC: [8] Undefined index: dey /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 47 行.
+NOTIC: [8] Undefined index: extra /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 48 行.
+NOTIC: [8] Undefined index: field /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 42 行.
+NOTIC: [8] Undefined index: field /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 43 行.
+NOTIC: [8] Undefined index: null /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 45 行.
+NOTIC: [8] Undefined index: default /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 46 行.
+NOTIC: [8] Undefined index: dey /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 47 行.
+NOTIC: [8] Undefined index: extra /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 48 行.
+NOTIC: [8] Undefined index: field /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 42 行.
+NOTIC: [8] Undefined index: field /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 43 行.
+NOTIC: [8] Undefined index: null /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 45 行.
+NOTIC: [8] Undefined index: default /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 46 行.
+NOTIC: [8] Undefined index: dey /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 47 行.
+NOTIC: [8] Undefined index: extra /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 48 行.
+NOTIC: [8] Undefined index: field /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 42 行.
+NOTIC: [8] Undefined index: field /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 43 行.
+NOTIC: [8] Undefined index: null /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 45 行.
+NOTIC: [8] Undefined index: default /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 46 行.
+NOTIC: [8] Undefined index: dey /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 47 行.
+NOTIC: [8] Undefined index: extra /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 48 行.
+NOTIC: [8] Undefined index: field /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 42 行.
+NOTIC: [8] Undefined index: field /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 43 行.
+NOTIC: [8] Undefined index: null /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 45 行.
+NOTIC: [8] Undefined index: default /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 46 行.
+NOTIC: [8] Undefined index: dey /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 47 行.
+NOTIC: [8] Undefined index: extra /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 48 行.
+NOTIC: [8] Undefined index: field /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 42 行.
+NOTIC: [8] Undefined index: field /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 43 行.
+NOTIC: [8] Undefined index: null /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 45 行.
+NOTIC: [8] Undefined index: default /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 46 行.
+NOTIC: [8] Undefined index: dey /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 47 行.
+NOTIC: [8] Undefined index: extra /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 48 行.
+NOTIC: [8] Undefined index: field /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 42 行.
+NOTIC: [8] Undefined index: field /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 43 行.
+NOTIC: [8] Undefined index: null /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 45 行.
+NOTIC: [8] Undefined index: default /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 46 行.
+NOTIC: [8] Undefined index: dey /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 47 行.
+NOTIC: [8] Undefined index: extra /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 48 行.
+NOTIC: [8] Undefined index: field /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 42 行.
+NOTIC: [8] Undefined index: field /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 43 行.
+NOTIC: [8] Undefined index: null /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 45 行.
+NOTIC: [8] Undefined index: default /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 46 行.
+NOTIC: [8] Undefined index: dey /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 47 行.
+NOTIC: [8] Undefined index: extra /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 48 行.
+NOTIC: [8] Undefined index: field /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 42 行.
+NOTIC: [8] Undefined index: field /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 43 行.
+NOTIC: [8] Undefined index: null /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 45 行.
+NOTIC: [8] Undefined index: default /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 46 行.
+NOTIC: [8] Undefined index: dey /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 47 行.
+NOTIC: [8] Undefined index: extra /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 48 行.
+NOTIC: [8] Undefined index: field /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 42 行.
+NOTIC: [8] Undefined index: field /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 43 行.
+NOTIC: [8] Undefined index: null /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 45 行.
+NOTIC: [8] Undefined index: default /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 46 行.
+NOTIC: [8] Undefined index: dey /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 47 行.
+NOTIC: [8] Undefined index: extra /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 48 行.
+SQL: SELECT * FROM user  [ RunTime:0.0002s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001185s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001353s ]
+
+[ 2015-11-30T23:08:44+08:00 ] ::1 /HSWS_FRAME/index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000785s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000842s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000954s ]
+INFO: [ view_parse ] --START--
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.000248s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.000342s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000188s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000274s ]
+SQL: PRAGMA table_info( user ) [ RunTime:0.0532s ]
+NOTIC: [8] Undefined index: field /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 42 行.
+NOTIC: [8] Undefined index: field /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 43 行.
+NOTIC: [8] Undefined index: null /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 45 行.
+NOTIC: [8] Undefined index: default /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 46 行.
+NOTIC: [8] Undefined index: dey /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 47 行.
+NOTIC: [8] Undefined index: extra /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 48 行.
+NOTIC: [8] Undefined index: field /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 42 行.
+NOTIC: [8] Undefined index: field /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 43 行.
+NOTIC: [8] Undefined index: null /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 45 行.
+NOTIC: [8] Undefined index: default /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 46 行.
+NOTIC: [8] Undefined index: dey /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 47 行.
+NOTIC: [8] Undefined index: extra /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 48 行.
+NOTIC: [8] Undefined index: field /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 42 行.
+NOTIC: [8] Undefined index: field /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 43 行.
+NOTIC: [8] Undefined index: null /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 45 行.
+NOTIC: [8] Undefined index: default /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 46 行.
+NOTIC: [8] Undefined index: dey /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 47 行.
+NOTIC: [8] Undefined index: extra /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 48 行.
+NOTIC: [8] Undefined index: field /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 42 行.
+NOTIC: [8] Undefined index: field /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 43 行.
+NOTIC: [8] Undefined index: null /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 45 行.
+NOTIC: [8] Undefined index: default /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 46 行.
+NOTIC: [8] Undefined index: dey /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 47 行.
+NOTIC: [8] Undefined index: extra /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 48 行.
+NOTIC: [8] Undefined index: field /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 42 行.
+NOTIC: [8] Undefined index: field /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 43 行.
+NOTIC: [8] Undefined index: null /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 45 行.
+NOTIC: [8] Undefined index: default /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 46 行.
+NOTIC: [8] Undefined index: dey /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 47 行.
+NOTIC: [8] Undefined index: extra /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 48 行.
+NOTIC: [8] Undefined index: field /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 42 行.
+NOTIC: [8] Undefined index: field /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 43 行.
+NOTIC: [8] Undefined index: null /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 45 行.
+NOTIC: [8] Undefined index: default /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 46 行.
+NOTIC: [8] Undefined index: dey /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 47 行.
+NOTIC: [8] Undefined index: extra /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 48 行.
+NOTIC: [8] Undefined index: field /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 42 行.
+NOTIC: [8] Undefined index: field /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 43 行.
+NOTIC: [8] Undefined index: null /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 45 行.
+NOTIC: [8] Undefined index: default /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 46 行.
+NOTIC: [8] Undefined index: dey /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 47 行.
+NOTIC: [8] Undefined index: extra /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 48 行.
+NOTIC: [8] Undefined index: field /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 42 行.
+NOTIC: [8] Undefined index: field /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 43 行.
+NOTIC: [8] Undefined index: null /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 45 行.
+NOTIC: [8] Undefined index: default /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 46 行.
+NOTIC: [8] Undefined index: dey /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 47 行.
+NOTIC: [8] Undefined index: extra /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 48 行.
+NOTIC: [8] Undefined index: field /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 42 行.
+NOTIC: [8] Undefined index: field /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 43 行.
+NOTIC: [8] Undefined index: null /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 45 行.
+NOTIC: [8] Undefined index: default /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 46 行.
+NOTIC: [8] Undefined index: dey /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 47 行.
+NOTIC: [8] Undefined index: extra /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 48 行.
+NOTIC: [8] Undefined index: field /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 42 行.
+NOTIC: [8] Undefined index: field /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 43 行.
+NOTIC: [8] Undefined index: null /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 45 行.
+NOTIC: [8] Undefined index: default /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 46 行.
+NOTIC: [8] Undefined index: dey /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 47 行.
+NOTIC: [8] Undefined index: extra /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 48 行.
+NOTIC: [8] Undefined index: field /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 42 行.
+NOTIC: [8] Undefined index: field /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 43 行.
+NOTIC: [8] Undefined index: null /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 45 行.
+NOTIC: [8] Undefined index: default /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 46 行.
+NOTIC: [8] Undefined index: dey /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 47 行.
+NOTIC: [8] Undefined index: extra /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 48 行.
+ERR: SQLSTATE[HY000]: General error: 1 no such column: value
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/View.class.php:95) /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Think.class.php 第 229 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/View.class.php:95) /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Think.class.php 第 230 行.
+
+[ 2015-11-30T23:08:56+08:00 ] ::1 /HSWS_FRAME/index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000587s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000699s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000796s ]
+INFO: [ view_parse ] --START--
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.000222s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.000306s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000169s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000243s ]
+SQL: PRAGMA table_info( user ) [ RunTime:0.0601s ]
+NOTIC: [8] Undefined index: field /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 42 行.
+NOTIC: [8] Undefined index: field /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 43 行.
+NOTIC: [8] Undefined index: null /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 45 行.
+NOTIC: [8] Undefined index: default /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 46 行.
+NOTIC: [8] Undefined index: dey /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 47 行.
+NOTIC: [8] Undefined index: extra /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 48 行.
+NOTIC: [8] Undefined index: field /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 42 行.
+NOTIC: [8] Undefined index: field /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 43 行.
+NOTIC: [8] Undefined index: null /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 45 行.
+NOTIC: [8] Undefined index: default /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 46 行.
+NOTIC: [8] Undefined index: dey /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 47 行.
+NOTIC: [8] Undefined index: extra /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 48 行.
+NOTIC: [8] Undefined index: field /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 42 行.
+NOTIC: [8] Undefined index: field /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 43 行.
+NOTIC: [8] Undefined index: null /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 45 行.
+NOTIC: [8] Undefined index: default /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 46 行.
+NOTIC: [8] Undefined index: dey /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 47 行.
+NOTIC: [8] Undefined index: extra /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 48 行.
+NOTIC: [8] Undefined index: field /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 42 行.
+NOTIC: [8] Undefined index: field /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 43 行.
+NOTIC: [8] Undefined index: null /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 45 行.
+NOTIC: [8] Undefined index: default /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 46 行.
+NOTIC: [8] Undefined index: dey /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 47 行.
+NOTIC: [8] Undefined index: extra /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 48 行.
+NOTIC: [8] Undefined index: field /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 42 行.
+NOTIC: [8] Undefined index: field /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 43 行.
+NOTIC: [8] Undefined index: null /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 45 行.
+NOTIC: [8] Undefined index: default /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 46 行.
+NOTIC: [8] Undefined index: dey /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 47 行.
+NOTIC: [8] Undefined index: extra /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 48 行.
+NOTIC: [8] Undefined index: field /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 42 行.
+NOTIC: [8] Undefined index: field /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 43 行.
+NOTIC: [8] Undefined index: null /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 45 行.
+NOTIC: [8] Undefined index: default /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 46 行.
+NOTIC: [8] Undefined index: dey /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 47 行.
+NOTIC: [8] Undefined index: extra /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 48 行.
+NOTIC: [8] Undefined index: field /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 42 行.
+NOTIC: [8] Undefined index: field /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 43 行.
+NOTIC: [8] Undefined index: null /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 45 行.
+NOTIC: [8] Undefined index: default /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 46 行.
+NOTIC: [8] Undefined index: dey /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 47 行.
+NOTIC: [8] Undefined index: extra /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 48 行.
+NOTIC: [8] Undefined index: field /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 42 行.
+NOTIC: [8] Undefined index: field /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 43 行.
+NOTIC: [8] Undefined index: null /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 45 行.
+NOTIC: [8] Undefined index: default /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 46 行.
+NOTIC: [8] Undefined index: dey /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 47 行.
+NOTIC: [8] Undefined index: extra /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 48 行.
+NOTIC: [8] Undefined index: field /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 42 行.
+NOTIC: [8] Undefined index: field /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 43 行.
+NOTIC: [8] Undefined index: null /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 45 行.
+NOTIC: [8] Undefined index: default /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 46 行.
+NOTIC: [8] Undefined index: dey /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 47 行.
+NOTIC: [8] Undefined index: extra /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 48 行.
+NOTIC: [8] Undefined index: field /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 42 行.
+NOTIC: [8] Undefined index: field /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 43 行.
+NOTIC: [8] Undefined index: null /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 45 行.
+NOTIC: [8] Undefined index: default /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 46 行.
+NOTIC: [8] Undefined index: dey /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 47 行.
+NOTIC: [8] Undefined index: extra /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 48 行.
+NOTIC: [8] Undefined index: field /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 42 行.
+NOTIC: [8] Undefined index: field /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 43 行.
+NOTIC: [8] Undefined index: null /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 45 行.
+NOTIC: [8] Undefined index: default /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 46 行.
+NOTIC: [8] Undefined index: dey /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 47 行.
+NOTIC: [8] Undefined index: extra /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 48 行.
+SQL: SELECT name FROM user LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001016s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001139s ]
+
+[ 2015-11-30T23:12:03+08:00 ] ::1 /HSWS_FRAME/index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000933s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001265s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001433s ]
+INFO: [ view_parse ] --START--
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.013638s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013917s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000570s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000722s ]
+SQL: PRAGMA table_info( user ) [ RunTime:0.0809s ]
+NOTIC: [8] Undefined index: field /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 42 行.
+NOTIC: [8] Undefined index: field /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 43 行.
+NOTIC: [8] Undefined index: null /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 45 行.
+NOTIC: [8] Undefined index: default /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 46 行.
+NOTIC: [8] Undefined index: dey /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 47 行.
+NOTIC: [8] Undefined index: extra /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 48 行.
+NOTIC: [8] Undefined index: field /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 42 行.
+NOTIC: [8] Undefined index: field /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 43 行.
+NOTIC: [8] Undefined index: null /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 45 行.
+NOTIC: [8] Undefined index: default /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 46 行.
+NOTIC: [8] Undefined index: dey /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 47 行.
+NOTIC: [8] Undefined index: extra /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 48 行.
+NOTIC: [8] Undefined index: field /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 42 行.
+NOTIC: [8] Undefined index: field /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 43 行.
+NOTIC: [8] Undefined index: null /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 45 行.
+NOTIC: [8] Undefined index: default /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 46 行.
+NOTIC: [8] Undefined index: dey /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 47 行.
+NOTIC: [8] Undefined index: extra /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 48 行.
+NOTIC: [8] Undefined index: field /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 42 行.
+NOTIC: [8] Undefined index: field /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 43 行.
+NOTIC: [8] Undefined index: null /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 45 行.
+NOTIC: [8] Undefined index: default /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 46 行.
+NOTIC: [8] Undefined index: dey /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 47 行.
+NOTIC: [8] Undefined index: extra /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 48 行.
+NOTIC: [8] Undefined index: field /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 42 行.
+NOTIC: [8] Undefined index: field /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 43 行.
+NOTIC: [8] Undefined index: null /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 45 行.
+NOTIC: [8] Undefined index: default /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 46 行.
+NOTIC: [8] Undefined index: dey /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 47 行.
+NOTIC: [8] Undefined index: extra /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 48 行.
+NOTIC: [8] Undefined index: field /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 42 行.
+NOTIC: [8] Undefined index: field /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 43 行.
+NOTIC: [8] Undefined index: null /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 45 行.
+NOTIC: [8] Undefined index: default /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 46 行.
+NOTIC: [8] Undefined index: dey /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 47 行.
+NOTIC: [8] Undefined index: extra /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 48 行.
+NOTIC: [8] Undefined index: field /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 42 行.
+NOTIC: [8] Undefined index: field /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 43 行.
+NOTIC: [8] Undefined index: null /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 45 行.
+NOTIC: [8] Undefined index: default /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 46 行.
+NOTIC: [8] Undefined index: dey /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 47 行.
+NOTIC: [8] Undefined index: extra /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 48 行.
+NOTIC: [8] Undefined index: field /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 42 行.
+NOTIC: [8] Undefined index: field /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 43 行.
+NOTIC: [8] Undefined index: null /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 45 行.
+NOTIC: [8] Undefined index: default /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 46 行.
+NOTIC: [8] Undefined index: dey /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 47 行.
+NOTIC: [8] Undefined index: extra /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 48 行.
+NOTIC: [8] Undefined index: field /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 42 行.
+NOTIC: [8] Undefined index: field /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 43 行.
+NOTIC: [8] Undefined index: null /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 45 行.
+NOTIC: [8] Undefined index: default /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 46 行.
+NOTIC: [8] Undefined index: dey /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 47 行.
+NOTIC: [8] Undefined index: extra /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 48 行.
+NOTIC: [8] Undefined index: field /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 42 行.
+NOTIC: [8] Undefined index: field /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 43 行.
+NOTIC: [8] Undefined index: null /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 45 行.
+NOTIC: [8] Undefined index: default /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 46 行.
+NOTIC: [8] Undefined index: dey /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 47 行.
+NOTIC: [8] Undefined index: extra /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 48 行.
+NOTIC: [8] Undefined index: field /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 42 行.
+NOTIC: [8] Undefined index: field /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 43 行.
+NOTIC: [8] Undefined index: null /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 45 行.
+NOTIC: [8] Undefined index: default /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 46 行.
+NOTIC: [8] Undefined index: dey /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 47 行.
+NOTIC: [8] Undefined index: extra /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 48 行.
+SQL: SELECT * FROM user WHERE ( userId=1 )  [ RunTime:0.0127s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001659s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001795s ]
+
+[ 2015-11-30T23:12:27+08:00 ] ::1 /HSWS_FRAME/index.php?c=test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000955s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001386s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001551s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001377s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001524s ]
+
+[ 2015-11-30T23:12:35+08:00 ] ::1 /HSWS_FRAME/index.php?c=user
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000680s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000757s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000864s ]
+SQL: PRAGMA table_info( users ) [ RunTime:0.0237s ]
+ERR: SQLSTATE[HY000]: General error: 1 no such table: users
+
+[ 2015-11-30T23:15:49+08:00 ] ::1 /HSWS_FRAME/index.php?c=user
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000705s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000661s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000749s ]
+SQL: PRAGMA table_info( users ) [ RunTime:0.0198s ]
+ERR: SQLSTATE[HY000]: General error: 1 no such table: users
+
+[ 2015-11-30T23:15:54+08:00 ] ::1 /HSWS_FRAME/index.php?c=user
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000416s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000512s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000578s ]
+SQL: PRAGMA table_info( user ) [ RunTime:0.0005s ]
+NOTIC: [8] Undefined index: field /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 42 行.
+NOTIC: [8] Undefined index: field /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 43 行.
+NOTIC: [8] Undefined index: null /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 45 行.
+NOTIC: [8] Undefined index: default /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 46 行.
+NOTIC: [8] Undefined index: dey /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 47 行.
+NOTIC: [8] Undefined index: extra /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 48 行.
+NOTIC: [8] Undefined index: field /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 42 行.
+NOTIC: [8] Undefined index: field /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 43 行.
+NOTIC: [8] Undefined index: null /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 45 行.
+NOTIC: [8] Undefined index: default /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 46 行.
+NOTIC: [8] Undefined index: dey /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 47 行.
+NOTIC: [8] Undefined index: extra /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 48 行.
+NOTIC: [8] Undefined index: field /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 42 行.
+NOTIC: [8] Undefined index: field /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 43 行.
+NOTIC: [8] Undefined index: null /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 45 行.
+NOTIC: [8] Undefined index: default /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 46 行.
+NOTIC: [8] Undefined index: dey /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 47 行.
+NOTIC: [8] Undefined index: extra /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 48 行.
+NOTIC: [8] Undefined index: field /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 42 行.
+NOTIC: [8] Undefined index: field /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 43 行.
+NOTIC: [8] Undefined index: null /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 45 行.
+NOTIC: [8] Undefined index: default /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 46 行.
+NOTIC: [8] Undefined index: dey /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 47 行.
+NOTIC: [8] Undefined index: extra /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 48 行.
+NOTIC: [8] Undefined index: field /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 42 行.
+NOTIC: [8] Undefined index: field /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 43 行.
+NOTIC: [8] Undefined index: null /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 45 行.
+NOTIC: [8] Undefined index: default /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 46 行.
+NOTIC: [8] Undefined index: dey /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 47 行.
+NOTIC: [8] Undefined index: extra /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 48 行.
+NOTIC: [8] Undefined index: field /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 42 行.
+NOTIC: [8] Undefined index: field /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 43 行.
+NOTIC: [8] Undefined index: null /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 45 行.
+NOTIC: [8] Undefined index: default /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 46 行.
+NOTIC: [8] Undefined index: dey /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 47 行.
+NOTIC: [8] Undefined index: extra /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 48 行.
+NOTIC: [8] Undefined index: field /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 42 行.
+NOTIC: [8] Undefined index: field /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 43 行.
+NOTIC: [8] Undefined index: null /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 45 行.
+NOTIC: [8] Undefined index: default /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 46 行.
+NOTIC: [8] Undefined index: dey /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 47 行.
+NOTIC: [8] Undefined index: extra /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 48 行.
+NOTIC: [8] Undefined index: field /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 42 行.
+NOTIC: [8] Undefined index: field /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 43 行.
+NOTIC: [8] Undefined index: null /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 45 行.
+NOTIC: [8] Undefined index: default /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 46 行.
+NOTIC: [8] Undefined index: dey /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 47 行.
+NOTIC: [8] Undefined index: extra /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 48 行.
+NOTIC: [8] Undefined index: field /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 42 行.
+NOTIC: [8] Undefined index: field /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 43 行.
+NOTIC: [8] Undefined index: null /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 45 行.
+NOTIC: [8] Undefined index: default /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 46 行.
+NOTIC: [8] Undefined index: dey /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 47 行.
+NOTIC: [8] Undefined index: extra /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 48 行.
+NOTIC: [8] Undefined index: field /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 42 行.
+NOTIC: [8] Undefined index: field /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 43 行.
+NOTIC: [8] Undefined index: null /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 45 行.
+NOTIC: [8] Undefined index: default /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 46 行.
+NOTIC: [8] Undefined index: dey /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 47 行.
+NOTIC: [8] Undefined index: extra /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 48 行.
+NOTIC: [8] Undefined index: field /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 42 行.
+NOTIC: [8] Undefined index: field /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 43 行.
+NOTIC: [8] Undefined index: null /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 45 行.
+NOTIC: [8] Undefined index: default /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 46 行.
+NOTIC: [8] Undefined index: dey /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 47 行.
+NOTIC: [8] Undefined index: extra /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 48 行.
+SQL: SELECT * FROM user LIMIT 1   [ RunTime:0.0001s ]
+ERR: 非法操作:index
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at /Applications/MAMP/htdocs/HSWS_FRAME/Application/Home/Controller/UserController.class.php:22) /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Think.class.php 第 229 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at /Applications/MAMP/htdocs/HSWS_FRAME/Application/Home/Controller/UserController.class.php:22) /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Think.class.php 第 230 行.
+
+[ 2015-11-30T23:16:25+08:00 ] ::1 /HSWS_FRAME/index.php?c=user
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000595s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000705s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000800s ]
+SQL: PRAGMA table_info( user ) [ RunTime:0.0006s ]
+NOTIC: [8] Undefined index: field /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 42 行.
+NOTIC: [8] Undefined index: field /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 43 行.
+NOTIC: [8] Undefined index: null /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 45 行.
+NOTIC: [8] Undefined index: default /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 46 行.
+NOTIC: [8] Undefined index: dey /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 47 行.
+NOTIC: [8] Undefined index: extra /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 48 行.
+NOTIC: [8] Undefined index: field /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 42 行.
+NOTIC: [8] Undefined index: field /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 43 行.
+NOTIC: [8] Undefined index: null /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 45 行.
+NOTIC: [8] Undefined index: default /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 46 行.
+NOTIC: [8] Undefined index: dey /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 47 行.
+NOTIC: [8] Undefined index: extra /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 48 行.
+NOTIC: [8] Undefined index: field /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 42 行.
+NOTIC: [8] Undefined index: field /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 43 行.
+NOTIC: [8] Undefined index: null /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 45 行.
+NOTIC: [8] Undefined index: default /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 46 行.
+NOTIC: [8] Undefined index: dey /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 47 行.
+NOTIC: [8] Undefined index: extra /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 48 行.
+NOTIC: [8] Undefined index: field /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 42 行.
+NOTIC: [8] Undefined index: field /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 43 行.
+NOTIC: [8] Undefined index: null /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 45 行.
+NOTIC: [8] Undefined index: default /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 46 行.
+NOTIC: [8] Undefined index: dey /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 47 行.
+NOTIC: [8] Undefined index: extra /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 48 行.
+NOTIC: [8] Undefined index: field /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 42 行.
+NOTIC: [8] Undefined index: field /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 43 行.
+NOTIC: [8] Undefined index: null /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 45 行.
+NOTIC: [8] Undefined index: default /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 46 行.
+NOTIC: [8] Undefined index: dey /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 47 行.
+NOTIC: [8] Undefined index: extra /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 48 行.
+NOTIC: [8] Undefined index: field /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 42 行.
+NOTIC: [8] Undefined index: field /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 43 行.
+NOTIC: [8] Undefined index: null /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 45 行.
+NOTIC: [8] Undefined index: default /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 46 行.
+NOTIC: [8] Undefined index: dey /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 47 行.
+NOTIC: [8] Undefined index: extra /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 48 行.
+NOTIC: [8] Undefined index: field /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 42 行.
+NOTIC: [8] Undefined index: field /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 43 行.
+NOTIC: [8] Undefined index: null /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 45 行.
+NOTIC: [8] Undefined index: default /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 46 行.
+NOTIC: [8] Undefined index: dey /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 47 行.
+NOTIC: [8] Undefined index: extra /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 48 行.
+NOTIC: [8] Undefined index: field /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 42 行.
+NOTIC: [8] Undefined index: field /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 43 行.
+NOTIC: [8] Undefined index: null /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 45 行.
+NOTIC: [8] Undefined index: default /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 46 行.
+NOTIC: [8] Undefined index: dey /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 47 行.
+NOTIC: [8] Undefined index: extra /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 48 行.
+NOTIC: [8] Undefined index: field /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 42 行.
+NOTIC: [8] Undefined index: field /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 43 行.
+NOTIC: [8] Undefined index: null /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 45 行.
+NOTIC: [8] Undefined index: default /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 46 行.
+NOTIC: [8] Undefined index: dey /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 47 行.
+NOTIC: [8] Undefined index: extra /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 48 行.
+NOTIC: [8] Undefined index: field /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 42 行.
+NOTIC: [8] Undefined index: field /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 43 行.
+NOTIC: [8] Undefined index: null /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 45 行.
+NOTIC: [8] Undefined index: default /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 46 行.
+NOTIC: [8] Undefined index: dey /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 47 行.
+NOTIC: [8] Undefined index: extra /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 48 行.
+NOTIC: [8] Undefined index: field /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 42 行.
+NOTIC: [8] Undefined index: field /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 43 行.
+NOTIC: [8] Undefined index: null /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 45 行.
+NOTIC: [8] Undefined index: default /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 46 行.
+NOTIC: [8] Undefined index: dey /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 47 行.
+NOTIC: [8] Undefined index: extra /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 48 行.
+SQL: SELECT * FROM user LIMIT 1   [ RunTime:0.0002s ]
+ERR: 非法操作:index
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at /Applications/MAMP/htdocs/HSWS_FRAME/Application/Home/Controller/UserController.class.php:22) /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Think.class.php 第 229 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at /Applications/MAMP/htdocs/HSWS_FRAME/Application/Home/Controller/UserController.class.php:22) /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Think.class.php 第 230 行.
+
+[ 2015-11-30T23:17:20+08:00 ] ::1 /HSWS_FRAME/index.php?c=user
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000454s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000518s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000587s ]
+SQL: PRAGMA table_info( user ) [ RunTime:0.0007s ]
+NOTIC: [8] Undefined index: field /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 42 行.
+NOTIC: [8] Undefined index: field /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 43 行.
+NOTIC: [8] Undefined index: null /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 45 行.
+NOTIC: [8] Undefined index: default /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 46 行.
+NOTIC: [8] Undefined index: dey /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 47 行.
+NOTIC: [8] Undefined index: extra /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 48 行.
+NOTIC: [8] Undefined index: field /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 42 行.
+NOTIC: [8] Undefined index: field /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 43 行.
+NOTIC: [8] Undefined index: null /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 45 行.
+NOTIC: [8] Undefined index: default /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 46 行.
+NOTIC: [8] Undefined index: dey /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 47 行.
+NOTIC: [8] Undefined index: extra /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 48 行.
+NOTIC: [8] Undefined index: field /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 42 行.
+NOTIC: [8] Undefined index: field /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 43 行.
+NOTIC: [8] Undefined index: null /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 45 行.
+NOTIC: [8] Undefined index: default /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 46 行.
+NOTIC: [8] Undefined index: dey /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 47 行.
+NOTIC: [8] Undefined index: extra /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 48 行.
+NOTIC: [8] Undefined index: field /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 42 行.
+NOTIC: [8] Undefined index: field /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 43 行.
+NOTIC: [8] Undefined index: null /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 45 行.
+NOTIC: [8] Undefined index: default /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 46 行.
+NOTIC: [8] Undefined index: dey /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 47 行.
+NOTIC: [8] Undefined index: extra /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 48 行.
+NOTIC: [8] Undefined index: field /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 42 行.
+NOTIC: [8] Undefined index: field /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 43 行.
+NOTIC: [8] Undefined index: null /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 45 行.
+NOTIC: [8] Undefined index: default /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 46 行.
+NOTIC: [8] Undefined index: dey /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 47 行.
+NOTIC: [8] Undefined index: extra /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 48 行.
+NOTIC: [8] Undefined index: field /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 42 行.
+NOTIC: [8] Undefined index: field /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 43 行.
+NOTIC: [8] Undefined index: null /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 45 行.
+NOTIC: [8] Undefined index: default /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 46 行.
+NOTIC: [8] Undefined index: dey /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 47 行.
+NOTIC: [8] Undefined index: extra /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 48 行.
+NOTIC: [8] Undefined index: field /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 42 行.
+NOTIC: [8] Undefined index: field /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 43 行.
+NOTIC: [8] Undefined index: null /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 45 行.
+NOTIC: [8] Undefined index: default /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 46 行.
+NOTIC: [8] Undefined index: dey /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 47 行.
+NOTIC: [8] Undefined index: extra /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 48 行.
+NOTIC: [8] Undefined index: field /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 42 行.
+NOTIC: [8] Undefined index: field /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 43 行.
+NOTIC: [8] Undefined index: null /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 45 行.
+NOTIC: [8] Undefined index: default /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 46 行.
+NOTIC: [8] Undefined index: dey /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 47 行.
+NOTIC: [8] Undefined index: extra /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 48 行.
+NOTIC: [8] Undefined index: field /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 42 行.
+NOTIC: [8] Undefined index: field /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 43 行.
+NOTIC: [8] Undefined index: null /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 45 行.
+NOTIC: [8] Undefined index: default /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 46 行.
+NOTIC: [8] Undefined index: dey /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 47 行.
+NOTIC: [8] Undefined index: extra /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 48 行.
+NOTIC: [8] Undefined index: field /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 42 行.
+NOTIC: [8] Undefined index: field /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 43 行.
+NOTIC: [8] Undefined index: null /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 45 行.
+NOTIC: [8] Undefined index: default /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 46 行.
+NOTIC: [8] Undefined index: dey /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 47 行.
+NOTIC: [8] Undefined index: extra /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 48 行.
+NOTIC: [8] Undefined index: field /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 42 行.
+NOTIC: [8] Undefined index: field /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 43 行.
+NOTIC: [8] Undefined index: null /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 45 行.
+NOTIC: [8] Undefined index: default /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 46 行.
+NOTIC: [8] Undefined index: dey /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 47 行.
+NOTIC: [8] Undefined index: extra /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 48 行.
+SQL: SELECT * FROM user LIMIT 1   [ RunTime:0.0002s ]
+ERR: 非法操作:index
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at /Applications/MAMP/htdocs/HSWS_FRAME/Application/Home/Controller/UserController.class.php:22) /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Think.class.php 第 229 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at /Applications/MAMP/htdocs/HSWS_FRAME/Application/Home/Controller/UserController.class.php:22) /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Think.class.php 第 230 行.
+
+[ 2015-11-30T23:17:20+08:00 ] ::1 /HSWS_FRAME/index.php?c=user
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000438s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000909s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000996s ]
+SQL: PRAGMA table_info( user ) [ RunTime:0.0006s ]
+NOTIC: [8] Undefined index: field /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 42 行.
+NOTIC: [8] Undefined index: field /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 43 行.
+NOTIC: [8] Undefined index: null /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 45 行.
+NOTIC: [8] Undefined index: default /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 46 行.
+NOTIC: [8] Undefined index: dey /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 47 行.
+NOTIC: [8] Undefined index: extra /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 48 行.
+NOTIC: [8] Undefined index: field /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 42 行.
+NOTIC: [8] Undefined index: field /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 43 行.
+NOTIC: [8] Undefined index: null /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 45 行.
+NOTIC: [8] Undefined index: default /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 46 行.
+NOTIC: [8] Undefined index: dey /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 47 行.
+NOTIC: [8] Undefined index: extra /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 48 行.
+NOTIC: [8] Undefined index: field /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 42 行.
+NOTIC: [8] Undefined index: field /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 43 行.
+NOTIC: [8] Undefined index: null /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 45 行.
+NOTIC: [8] Undefined index: default /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 46 行.
+NOTIC: [8] Undefined index: dey /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 47 行.
+NOTIC: [8] Undefined index: extra /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 48 行.
+NOTIC: [8] Undefined index: field /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 42 行.
+NOTIC: [8] Undefined index: field /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 43 行.
+NOTIC: [8] Undefined index: null /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 45 行.
+NOTIC: [8] Undefined index: default /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 46 行.
+NOTIC: [8] Undefined index: dey /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 47 行.
+NOTIC: [8] Undefined index: extra /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 48 行.
+NOTIC: [8] Undefined index: field /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 42 行.
+NOTIC: [8] Undefined index: field /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 43 行.
+NOTIC: [8] Undefined index: null /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 45 行.
+NOTIC: [8] Undefined index: default /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 46 行.
+NOTIC: [8] Undefined index: dey /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 47 行.
+NOTIC: [8] Undefined index: extra /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 48 行.
+NOTIC: [8] Undefined index: field /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 42 行.
+NOTIC: [8] Undefined index: field /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 43 行.
+NOTIC: [8] Undefined index: null /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 45 行.
+NOTIC: [8] Undefined index: default /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 46 行.
+NOTIC: [8] Undefined index: dey /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 47 行.
+NOTIC: [8] Undefined index: extra /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 48 行.
+NOTIC: [8] Undefined index: field /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 42 行.
+NOTIC: [8] Undefined index: field /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 43 行.
+NOTIC: [8] Undefined index: null /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 45 行.
+NOTIC: [8] Undefined index: default /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 46 行.
+NOTIC: [8] Undefined index: dey /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 47 行.
+NOTIC: [8] Undefined index: extra /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 48 行.
+NOTIC: [8] Undefined index: field /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 42 行.
+NOTIC: [8] Undefined index: field /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 43 行.
+NOTIC: [8] Undefined index: null /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 45 行.
+NOTIC: [8] Undefined index: default /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 46 行.
+NOTIC: [8] Undefined index: dey /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 47 行.
+NOTIC: [8] Undefined index: extra /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 48 行.
+NOTIC: [8] Undefined index: field /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 42 行.
+NOTIC: [8] Undefined index: field /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 43 行.
+NOTIC: [8] Undefined index: null /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 45 行.
+NOTIC: [8] Undefined index: default /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 46 行.
+NOTIC: [8] Undefined index: dey /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 47 行.
+NOTIC: [8] Undefined index: extra /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 48 行.
+NOTIC: [8] Undefined index: field /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 42 行.
+NOTIC: [8] Undefined index: field /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 43 行.
+NOTIC: [8] Undefined index: null /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 45 行.
+NOTIC: [8] Undefined index: default /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 46 行.
+NOTIC: [8] Undefined index: dey /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 47 行.
+NOTIC: [8] Undefined index: extra /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 48 行.
+NOTIC: [8] Undefined index: field /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 42 行.
+NOTIC: [8] Undefined index: field /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 43 行.
+NOTIC: [8] Undefined index: null /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 45 行.
+NOTIC: [8] Undefined index: default /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 46 行.
+NOTIC: [8] Undefined index: dey /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 47 行.
+NOTIC: [8] Undefined index: extra /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 48 行.
+SQL: SELECT * FROM user LIMIT 1   [ RunTime:0.0002s ]
+ERR: 非法操作:index
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at /Applications/MAMP/htdocs/HSWS_FRAME/Application/Home/Controller/UserController.class.php:22) /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Think.class.php 第 229 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at /Applications/MAMP/htdocs/HSWS_FRAME/Application/Home/Controller/UserController.class.php:22) /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Think.class.php 第 230 行.
+
+[ 2015-11-30T23:17:33+08:00 ] ::1 /HSWS_FRAME/index.php?c=user
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000428s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000509s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000576s ]
+SQL: PRAGMA table_info( user ) [ RunTime:0.0005s ]
+NOTIC: [8] Undefined index: field /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 42 行.
+NOTIC: [8] Undefined index: field /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 43 行.
+NOTIC: [8] Undefined index: null /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 45 行.
+NOTIC: [8] Undefined index: default /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 46 行.
+NOTIC: [8] Undefined index: dey /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 47 行.
+NOTIC: [8] Undefined index: extra /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 48 行.
+NOTIC: [8] Undefined index: field /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 42 行.
+NOTIC: [8] Undefined index: field /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 43 行.
+NOTIC: [8] Undefined index: null /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 45 行.
+NOTIC: [8] Undefined index: default /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 46 行.
+NOTIC: [8] Undefined index: dey /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 47 行.
+NOTIC: [8] Undefined index: extra /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 48 行.
+NOTIC: [8] Undefined index: field /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 42 行.
+NOTIC: [8] Undefined index: field /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 43 行.
+NOTIC: [8] Undefined index: null /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 45 行.
+NOTIC: [8] Undefined index: default /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 46 行.
+NOTIC: [8] Undefined index: dey /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 47 行.
+NOTIC: [8] Undefined index: extra /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 48 行.
+NOTIC: [8] Undefined index: field /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 42 行.
+NOTIC: [8] Undefined index: field /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 43 行.
+NOTIC: [8] Undefined index: null /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 45 行.
+NOTIC: [8] Undefined index: default /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 46 行.
+NOTIC: [8] Undefined index: dey /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 47 行.
+NOTIC: [8] Undefined index: extra /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 48 行.
+NOTIC: [8] Undefined index: field /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 42 行.
+NOTIC: [8] Undefined index: field /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 43 行.
+NOTIC: [8] Undefined index: null /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 45 行.
+NOTIC: [8] Undefined index: default /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 46 行.
+NOTIC: [8] Undefined index: dey /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 47 行.
+NOTIC: [8] Undefined index: extra /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 48 行.
+NOTIC: [8] Undefined index: field /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 42 行.
+NOTIC: [8] Undefined index: field /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 43 行.
+NOTIC: [8] Undefined index: null /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 45 行.
+NOTIC: [8] Undefined index: default /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 46 行.
+NOTIC: [8] Undefined index: dey /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 47 行.
+NOTIC: [8] Undefined index: extra /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 48 行.
+NOTIC: [8] Undefined index: field /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 42 行.
+NOTIC: [8] Undefined index: field /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 43 行.
+NOTIC: [8] Undefined index: null /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 45 行.
+NOTIC: [8] Undefined index: default /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 46 行.
+NOTIC: [8] Undefined index: dey /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 47 行.
+NOTIC: [8] Undefined index: extra /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 48 行.
+NOTIC: [8] Undefined index: field /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 42 行.
+NOTIC: [8] Undefined index: field /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 43 行.
+NOTIC: [8] Undefined index: null /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 45 行.
+NOTIC: [8] Undefined index: default /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 46 行.
+NOTIC: [8] Undefined index: dey /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 47 行.
+NOTIC: [8] Undefined index: extra /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 48 行.
+NOTIC: [8] Undefined index: field /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 42 行.
+NOTIC: [8] Undefined index: field /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 43 行.
+NOTIC: [8] Undefined index: null /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 45 行.
+NOTIC: [8] Undefined index: default /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 46 行.
+NOTIC: [8] Undefined index: dey /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 47 行.
+NOTIC: [8] Undefined index: extra /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 48 行.
+NOTIC: [8] Undefined index: field /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 42 行.
+NOTIC: [8] Undefined index: field /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 43 行.
+NOTIC: [8] Undefined index: null /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 45 行.
+NOTIC: [8] Undefined index: default /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 46 行.
+NOTIC: [8] Undefined index: dey /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 47 行.
+NOTIC: [8] Undefined index: extra /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 48 行.
+NOTIC: [8] Undefined index: field /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 42 行.
+NOTIC: [8] Undefined index: field /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 43 行.
+NOTIC: [8] Undefined index: null /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 45 行.
+NOTIC: [8] Undefined index: default /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 46 行.
+NOTIC: [8] Undefined index: dey /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 47 行.
+NOTIC: [8] Undefined index: extra /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 48 行.
+SQL: SELECT * FROM user LIMIT 1   [ RunTime:0.0001s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.034457s ]
+INFO: [ app_end ] --END-- [ RunTime:0.034585s ]
+
+[ 2015-11-30T23:24:46+08:00 ] ::1 /HSWS_FRAME/index.php?c=user
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000932s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001092s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001215s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001121s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001243s ]
+
+[ 2015-11-30T23:24:52+08:00 ] ::1 /HSWS_FRAME/index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000393s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000619s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000725s ]
+INFO: [ view_parse ] --START--
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.039692s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.039819s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.048616s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.048792s ]
+SQL: PRAGMA table_info( user ) [ RunTime:0.0327s ]
+NOTIC: [8] Undefined index: field /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 42 行.
+NOTIC: [8] Undefined index: field /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 43 行.
+NOTIC: [8] Undefined index: null /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 45 行.
+NOTIC: [8] Undefined index: default /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 46 行.
+NOTIC: [8] Undefined index: dey /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 47 行.
+NOTIC: [8] Undefined index: extra /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 48 行.
+NOTIC: [8] Undefined index: field /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 42 行.
+NOTIC: [8] Undefined index: field /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 43 行.
+NOTIC: [8] Undefined index: null /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 45 行.
+NOTIC: [8] Undefined index: default /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 46 行.
+NOTIC: [8] Undefined index: dey /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 47 行.
+NOTIC: [8] Undefined index: extra /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 48 行.
+NOTIC: [8] Undefined index: field /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 42 行.
+NOTIC: [8] Undefined index: field /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 43 行.
+NOTIC: [8] Undefined index: null /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 45 行.
+NOTIC: [8] Undefined index: default /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 46 行.
+NOTIC: [8] Undefined index: dey /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 47 行.
+NOTIC: [8] Undefined index: extra /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 48 行.
+NOTIC: [8] Undefined index: field /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 42 行.
+NOTIC: [8] Undefined index: field /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 43 行.
+NOTIC: [8] Undefined index: null /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 45 行.
+NOTIC: [8] Undefined index: default /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 46 行.
+NOTIC: [8] Undefined index: dey /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 47 行.
+NOTIC: [8] Undefined index: extra /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 48 行.
+NOTIC: [8] Undefined index: field /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 42 行.
+NOTIC: [8] Undefined index: field /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 43 行.
+NOTIC: [8] Undefined index: null /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 45 行.
+NOTIC: [8] Undefined index: default /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 46 行.
+NOTIC: [8] Undefined index: dey /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 47 行.
+NOTIC: [8] Undefined index: extra /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 48 行.
+NOTIC: [8] Undefined index: field /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 42 行.
+NOTIC: [8] Undefined index: field /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 43 行.
+NOTIC: [8] Undefined index: null /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 45 行.
+NOTIC: [8] Undefined index: default /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 46 行.
+NOTIC: [8] Undefined index: dey /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 47 行.
+NOTIC: [8] Undefined index: extra /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 48 行.
+NOTIC: [8] Undefined index: field /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 42 行.
+NOTIC: [8] Undefined index: field /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 43 行.
+NOTIC: [8] Undefined index: null /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 45 行.
+NOTIC: [8] Undefined index: default /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 46 行.
+NOTIC: [8] Undefined index: dey /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 47 行.
+NOTIC: [8] Undefined index: extra /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 48 行.
+NOTIC: [8] Undefined index: field /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 42 行.
+NOTIC: [8] Undefined index: field /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 43 行.
+NOTIC: [8] Undefined index: null /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 45 行.
+NOTIC: [8] Undefined index: default /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 46 行.
+NOTIC: [8] Undefined index: dey /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 47 行.
+NOTIC: [8] Undefined index: extra /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 48 行.
+NOTIC: [8] Undefined index: field /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 42 行.
+NOTIC: [8] Undefined index: field /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 43 行.
+NOTIC: [8] Undefined index: null /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 45 行.
+NOTIC: [8] Undefined index: default /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 46 行.
+NOTIC: [8] Undefined index: dey /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 47 行.
+NOTIC: [8] Undefined index: extra /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 48 行.
+NOTIC: [8] Undefined index: field /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 42 行.
+NOTIC: [8] Undefined index: field /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 43 行.
+NOTIC: [8] Undefined index: null /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 45 行.
+NOTIC: [8] Undefined index: default /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 46 行.
+NOTIC: [8] Undefined index: dey /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 47 行.
+NOTIC: [8] Undefined index: extra /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 48 行.
+NOTIC: [8] Undefined index: field /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 42 行.
+NOTIC: [8] Undefined index: field /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 43 行.
+NOTIC: [8] Undefined index: null /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 45 行.
+NOTIC: [8] Undefined index: default /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 46 行.
+NOTIC: [8] Undefined index: dey /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 47 行.
+NOTIC: [8] Undefined index: extra /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 48 行.
+SQL: SELECT * FROM user WHERE ( userId=1 )  [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001365s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001553s ]
+
+[ 2015-11-30T23:24:52+08:00 ] ::1 /HSWS_FRAME/index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000725s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000912s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001066s ]
+INFO: [ view_parse ] --START--
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.000335s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.000446s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000197s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000265s ]
+SQL: PRAGMA table_info( user ) [ RunTime:0.0005s ]
+NOTIC: [8] Undefined index: field /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 42 行.
+NOTIC: [8] Undefined index: field /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 43 行.
+NOTIC: [8] Undefined index: null /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 45 行.
+NOTIC: [8] Undefined index: default /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 46 行.
+NOTIC: [8] Undefined index: dey /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 47 行.
+NOTIC: [8] Undefined index: extra /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 48 行.
+NOTIC: [8] Undefined index: field /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 42 行.
+NOTIC: [8] Undefined index: field /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 43 行.
+NOTIC: [8] Undefined index: null /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 45 行.
+NOTIC: [8] Undefined index: default /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 46 行.
+NOTIC: [8] Undefined index: dey /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 47 行.
+NOTIC: [8] Undefined index: extra /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 48 行.
+NOTIC: [8] Undefined index: field /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 42 行.
+NOTIC: [8] Undefined index: field /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 43 行.
+NOTIC: [8] Undefined index: null /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 45 行.
+NOTIC: [8] Undefined index: default /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 46 行.
+NOTIC: [8] Undefined index: dey /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 47 行.
+NOTIC: [8] Undefined index: extra /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 48 行.
+NOTIC: [8] Undefined index: field /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 42 行.
+NOTIC: [8] Undefined index: field /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 43 行.
+NOTIC: [8] Undefined index: null /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 45 行.
+NOTIC: [8] Undefined index: default /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 46 行.
+NOTIC: [8] Undefined index: dey /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 47 行.
+NOTIC: [8] Undefined index: extra /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 48 行.
+NOTIC: [8] Undefined index: field /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 42 行.
+NOTIC: [8] Undefined index: field /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 43 行.
+NOTIC: [8] Undefined index: null /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 45 行.
+NOTIC: [8] Undefined index: default /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 46 行.
+NOTIC: [8] Undefined index: dey /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 47 行.
+NOTIC: [8] Undefined index: extra /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 48 行.
+NOTIC: [8] Undefined index: field /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 42 行.
+NOTIC: [8] Undefined index: field /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 43 行.
+NOTIC: [8] Undefined index: null /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 45 行.
+NOTIC: [8] Undefined index: default /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 46 行.
+NOTIC: [8] Undefined index: dey /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 47 行.
+NOTIC: [8] Undefined index: extra /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 48 行.
+NOTIC: [8] Undefined index: field /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 42 行.
+NOTIC: [8] Undefined index: field /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 43 行.
+NOTIC: [8] Undefined index: null /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 45 行.
+NOTIC: [8] Undefined index: default /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 46 行.
+NOTIC: [8] Undefined index: dey /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 47 行.
+NOTIC: [8] Undefined index: extra /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 48 行.
+NOTIC: [8] Undefined index: field /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 42 行.
+NOTIC: [8] Undefined index: field /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 43 行.
+NOTIC: [8] Undefined index: null /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 45 行.
+NOTIC: [8] Undefined index: default /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 46 行.
+NOTIC: [8] Undefined index: dey /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 47 行.
+NOTIC: [8] Undefined index: extra /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 48 行.
+NOTIC: [8] Undefined index: field /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 42 行.
+NOTIC: [8] Undefined index: field /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 43 行.
+NOTIC: [8] Undefined index: null /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 45 行.
+NOTIC: [8] Undefined index: default /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 46 行.
+NOTIC: [8] Undefined index: dey /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 47 行.
+NOTIC: [8] Undefined index: extra /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 48 行.
+NOTIC: [8] Undefined index: field /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 42 行.
+NOTIC: [8] Undefined index: field /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 43 行.
+NOTIC: [8] Undefined index: null /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 45 行.
+NOTIC: [8] Undefined index: default /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 46 行.
+NOTIC: [8] Undefined index: dey /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 47 行.
+NOTIC: [8] Undefined index: extra /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 48 行.
+NOTIC: [8] Undefined index: field /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 42 行.
+NOTIC: [8] Undefined index: field /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 43 行.
+NOTIC: [8] Undefined index: null /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 45 行.
+NOTIC: [8] Undefined index: default /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 46 行.
+NOTIC: [8] Undefined index: dey /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 47 行.
+NOTIC: [8] Undefined index: extra /Applications/MAMP/htdocs/HSWS_FRAME/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php 第 48 行.
+SQL: SELECT * FROM user WHERE ( userId=1 )  [ RunTime:0.0001s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001076s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001179s ]
+
