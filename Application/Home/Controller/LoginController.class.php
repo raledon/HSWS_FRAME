@@ -16,7 +16,8 @@ use Think\Controller;
 
 class LoginController extends Controller{
     //put your code here
-   public function index(){
+    
+    public function index(){
        $this->display();
    }
      
@@ -56,23 +57,36 @@ class LoginController extends Controller{
         }
     }
  
+    //<foreach name='' key='' item=''>
+    //</foreach>
     /**
      * 用户注册
      */
     public function register()
     {
         // 判断提交方式 做不同处理
+        $data = array(
+            'name' =>I('name','','htmlspecialchars'),
+            'password' => I('password','','htmlspecialchars'),
+            
+        );
+                dump($data);
+
+        if(M('user')->data($data)->add()){
+            $this->success();
+        }
         if (IS_POST) {
+           
+            echo 111111;
             // 实例化User对象
-            $user = D('users');
- 
+            $user = D('user');
             // 自动验证 创建数据集
             if (!$data = $user->create()) {
                 // 防止输出中文乱码
                 header("Content-type: text/html; charset=utf-8");
                 exit($user->getError());
             }
- 
+            echo $data['name'];
             $id = $user->add($data);
             //插入数据库
             

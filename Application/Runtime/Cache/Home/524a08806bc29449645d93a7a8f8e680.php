@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+<?php if (!defined('THINK_PATH')) exit();?><!DOCTYPE html>
 <!--
 To change this license header, choose License Headers in Project Properties.
 To change this template file, choose Tools | Templates
@@ -10,12 +10,12 @@ and open the template in the editor.
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <meta name="description" content="系统登录">
-        <link href="__PUBLIC__/bootstrap/css/bootstrap.min.css" rel="stylesheet">
-        <link href="__PUBLIC__/startbootstrap/bower_components/metisMenu/dist/metisMenu.min.css" rel="stylesheet">                
-        <link href="__PUBLIC__/startbootstrap/dist/css/sb-admin-2.css" rel="stylesheet">
-        <link href="__PUBLIC__/startbootstrap/bower_components/font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">
-        <link href="__PUBLIC__/css/signin.css" rel="stylesheet">       
-        <link href="__PUBLIC__/css/cover.css" rel="stylesheet">
+        <link href="/HSWS_FRAME/Public/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+        <link href="/HSWS_FRAME/Public/startbootstrap/bower_components/metisMenu/dist/metisMenu.min.css" rel="stylesheet">                
+        <link href="/HSWS_FRAME/Public/startbootstrap/dist/css/sb-admin-2.css" rel="stylesheet">
+        <link href="/HSWS_FRAME/Public/startbootstrap/bower_components/font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">
+        <link href="/HSWS_FRAME/Public/css/signin.css" rel="stylesheet">       
+        <link href="/HSWS_FRAME/Public/css/cover.css" rel="stylesheet">
     </head>
     
     <body>
@@ -28,8 +28,8 @@ and open the template in the editor.
                             <h3 class="masthead-brand">RunningOwl</h3>
                             <nav>
                                 <ul class="nav masthead-nav">
-                                    <li><a href="{:U('login/login')}">登录</a></li>                                   
-                                    <li class="active"><a href="{:U('login/register')}">注册</a></li>
+                                    <li><a href="<?php echo U('login/login');?>">登录</a></li>                                   
+                                    <li class="active"><a href="<?php echo U('login/register');?>">注册</a></li>
                                     <li><a href="#">主页面</a></li>
                                 </ul>
                             </nav>
@@ -43,7 +43,7 @@ and open the template in the editor.
                                 
                                 <div class="panel-body">
                                     <div class="row">
-                                        <form role="form" action="{:U('login/register')}" method="post">
+                                        <form role="form" action="<?php echo U('login/register');?>" method="post">
                                             <div class="form-group input-group">
                                                 <span class="input-group-addon">
                                                     <i class="fa fa-user fw"></i>
@@ -121,14 +121,14 @@ and open the template in the editor.
     </div>                      
        
      
-    <script src="__PUBLIC__/startbootstrap/bower_components/jquery/dist/jquery.min.js"></script>
+    <script src="/HSWS_FRAME/Public/startbootstrap/bower_components/jquery/dist/jquery.min.js"></script>
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
     
-    <script src="__PUBLIC__/bootstrap/js/bootstrap.min.js"></script>
+    <script src="/HSWS_FRAME/Public/bootstrap/js/bootstrap.min.js"></script>
 
-    <script src="__PUBLIC__/startbootstrap/bower_components/metisMenu/dist/metisMenu.min.js"></script>
+    <script src="/HSWS_FRAME/Public/startbootstrap/bower_components/metisMenu/dist/metisMenu.min.js"></script>
     
-    <script src="__PUBLIC__/startbootstrap/dist/js/sb-admin-2.js"></script>
+    <script src="/HSWS_FRAME/Public/startbootstrap/dist/js/sb-admin-2.js"></script>
         
     
         </body>

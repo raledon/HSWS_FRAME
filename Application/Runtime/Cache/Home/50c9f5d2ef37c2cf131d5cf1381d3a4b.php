@@ -24,8 +24,8 @@ and open the template in the editor.
                             <h3 class="masthead-brand">RunningOwl</h3>
                             <nav>
                                 <ul class="nav masthead-nav">
-                                    <li class="active"><a href="#">登录</a></li>                                   
-                                    <li><a href="#">注册</a></li>
+                                    <li class="active"><a href="<?php echo U('login/login');?>">登录</a></li>                                   
+                                    <li><a href="<?php echo U('login/register');?>">注册</a></li>
                                     <li><a href="#">主页面</a></li>
                                 </ul>
                             </nav>
@@ -35,14 +35,14 @@ and open the template in the editor.
                     
                     <div class="inner cover">                                                    
                         <h1 class="cover-heading">登录</h1>
-                        <form action="/HSWS_FRAME/index.php/Home/Login/login.html" method="post" class="form-signin lead">
+                        <form action="/HSWS_FRAME/index.php?c=login&amp;a=login" method="post" class="form-signin lead">
                             <div>
                                 <label for="userId" class="sr-only">账号</label>
                                 <input type="text" name="userId" id="userId" class="form-control" placeholder="用户名" required autofocus>
                             </div>
                             <div>
                                 <label for="password" class="sr-only">密码</label>
-                                <input type="password" name="password" id="password" class="form-control" placeholder="密码" required>
+                                <input type="password" name="password" id="password" class="form-control" placeholder="6-22位密码" required>
                             </div>
                             <div class="checkbox">
                                 <label><input type="checkbox" value="rememberme">记住我</label>
