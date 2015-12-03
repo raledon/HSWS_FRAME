@@ -16,7 +16,7 @@ use Think\Controller;
 class HealthController extends Controller{
     //put your code here
     public function index(){
-        $this->display('sleep');
+        $this->display('exercise');
     }
     
     public function sleep(){

@@ -7,7 +7,7 @@ return array(
     ),
     
     /* 数据库设置 */
-    'DB_DSN' => 'sqlite:/Users/rale/Documents/sqliteDatabase/HealthCareDB.db',
+    'DB_DSN' => 'sqlite:F:\sqliteDB\healthCare.db',
     'DB_PREFIX' => '',
     'DB_CHARSET' => 'utf8'
     
