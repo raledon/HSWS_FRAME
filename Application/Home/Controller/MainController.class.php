@@ -7,14 +7,20 @@
  */
 
 namespace Home\Controller;
-use Think\Controller;
 /**
  * Description of MainController
  *
  * @author rale
  */
-class MainController extends Controller{
+class MainController extends CommonController{
     public function index(){
-        $this->display("homepage");
+
+        $this->assign('name',session('name'));
+
+        $this->display('homepage');
+    }
+    
+    public function homepage(){
+        $this->display();
     }
 }

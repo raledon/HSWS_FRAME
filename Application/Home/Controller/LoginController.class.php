@@ -23,32 +23,31 @@ class LoginController extends Controller{
      
     public function login()
     {
-        
         // 判断提交方式
         if (IS_POST) {
             // 实例化Login对象
+            header("Content-type: text/html; charset=utf-8");
+
             $login = D('login');
             // 自动验证 创建数据集
-            if (!$data = $login->create()) {
-                // 防止输出中文乱码
-                header("Content-type: text/html; charset=utf-8");
+            $data = $login->create();
+            if(!$data){
+                echo 'error';
                 exit($login->getError());
             }
-            //dump($data);
+            dump($data);
             // 组合查询条件
-            $where = array();
-            $where['userId'] = $data['userId'];
-            //dump($where);
-            $result = $login->where($where)->field('userId,password')->find();
-            // 验证用户名 对比 密码
-            if ($result && $result['password'] == $data['password']) {
+           
+            $result = $this->getUserById($data['userId']);
+            dump($result);
+             //验证用户名 对比 密码
+            if ($result && $result['password'] === $data['password']) {
                 // 存储session
                 session('uid', $result['userid']);
- 
+                session('name', $result['name']);
                 // 更新用户登录信息
-                $where['userid'] = session('uid');
                 //U('path',array()传参， ''设置后缀, 1是否跳转)
-                $this->success('登录成功,正跳转至系统首页...', U('Index/index'));
+                $this->success('登录成功,正跳转至系统首页...', U('main/index'));
             } else {
                 $this->error('登录失败,用户名或密码不正确!');
             }
@@ -62,47 +61,68 @@ class LoginController extends Controller{
     /**
      * 用户注册
      */
+    
+    private function getUserById($userId){
+        $user = M('user');
+        $result = $user->where("userId = $userId")->find();
+        return $result;
+    }
+    
+    
     public function register()
     {
-        // 判断提交方式 做不同处理
-        $data = array(
-            'name' =>I('name','','htmlspecialchars'),
-            'password' => I('password','','htmlspecialchars'),
-            
-        );
-                dump($data);
 
-        if(M('user')->data($data)->add()){
-            $this->success();
-        }
-        if (IS_POST) {
-           
-            echo 111111;
-            // 实例化User对象
+        // 判断提交方式 做不同处理
+        if (IS_POST) {                         
+            header("Content-type: text/html; charset=utf-8");
             $user = D('user');
-            // 自动验证 创建数据集
-            if (!$data = $user->create()) {
-                // 防止输出中文乱码
-                header("Content-type: text/html; charset=utf-8");
+            $data = $user->create();
+            if(!$data){
                 exit($user->getError());
+            }else{
+               $result = $user->add();
             }
-            echo $data['name'];
-            $id = $user->add($data);
-            //插入数据库
             
-//            if ($id = $user->add($data)) {
-               /* 直接注册用户为超级管理员,子用户采用邀请注册的模式,
-                   遂设置公司id等于注册用户id,便于管理公司用户*/
-//                $user->where("userid = $id")->setField('companyid', $id);
-//                $this->success('注册成功', U('Index/index'), 2);
-//            } else {
-//                $this->error('注册失败');
-//            }
+            
+            if($result){
+                $this->display('login');
+            }else{
+                $this->error('数据插入失败', U('Login/login'));
+            }
         } else {
             $this->display();
         }
     }
  
+  
+    private function gatherInfo(array $data){
+        $info = array();
+        if(array_key_exists( 'userId', $data)){
+            $info['userId'] = I('userId','','trim');
+        }
+        if(array_key_exists('password', $data)){
+            $info['password'] = I('password','','trim');
+        }
+        if(array_key_exists('name', $data)){
+            $info['name'] = I('name','','trim');
+        }
+        if(array_key_exists('gender', $data)){
+            $info['gender'] = I('gender','');
+        }
+        if(array_key_exists('telephone', $data)){
+            $info['telephone'] = I('telephone','');
+        }
+        if(array_key_exists('email', $data)){
+            $info['email'] = I('email','');
+        }
+        if(array_key_exists('slogan', $data)){
+            $info['slogan'] = I('slogan', '');
+        }
+        if(array_key_exists('character', $data)){
+            $info['character'] = I('character','');
+        }
+        return $info;
+    }
     /**
      * 用户注销
      */
@@ -110,21 +130,5 @@ class LoginController extends Controller{
     {
  
     }
- 
-    /**
-     * 验证码
-     */
-    public function verify()
-    {
-        // 实例化Verify对象
-        $verify = new \Think\Verify();
- 
-        // 配置验证码参数
-        $verify->fontSize = 14;     // 验证码字体大小
-        $verify->length = 4;        // 验证码位数
-        $verify->imageH = 34;       // 验证码高度
-        $verify->useImgBg = true;   // 开启验证码背景
-        $verify->useNoise = false;  // 关闭验证码干扰杂点
-        $verify->entry();
-}
+   
 }

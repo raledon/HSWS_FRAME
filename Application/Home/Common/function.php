@@ -10,4 +10,8 @@ function p($array){
     dump($array, true, '<pre>', 0);
 }
  */
+function is_login(){
+    
+}
+
 ?>

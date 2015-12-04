@@ -22,7 +22,6 @@ class UserController extends Controller{
     public function userList(){
          
         $list = M('user')->find();
-
         var_dump($list);
     }
     
