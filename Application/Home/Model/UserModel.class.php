@@ -6,11 +6,6 @@
  * and open the template in the editor.
  */
 
-/**
- * Description of UserModel
- *
- * @author john
- */
 namespace Home\Model;
 use Think\Model;
 

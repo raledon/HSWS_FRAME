@@ -29,6 +29,7 @@ class LoginController extends Controller{
             header("Content-type: text/html; charset=utf-8");
 
             $login = D('login');
+            //dump($_POST);
             // 自动验证 创建数据集
             $data = $login->create();
             if(!$data){
@@ -72,6 +73,7 @@ class LoginController extends Controller{
     public function register()
     {
 
+
         // 判断提交方式 做不同处理
         if (IS_POST) {                         
             header("Content-type: text/html; charset=utf-8");
@@ -81,6 +83,7 @@ class LoginController extends Controller{
                 exit($user->getError());
             }else{
                $result = $user->add();
+
             }
             
             
@@ -92,6 +95,7 @@ class LoginController extends Controller{
         } else {
             $this->display();
         }
+        
     }
  
   

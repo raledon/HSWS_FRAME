@@ -16,7 +16,7 @@ class IndexController extends CommonController {
         
         $this->assign('info', $info);
         $this->assign('SERVER_SOFTWARE', $_SERVER['SERVER_SOFTWARE']);
-        dump($info);
+//        dump($info);
         $this->display();
     }
 }

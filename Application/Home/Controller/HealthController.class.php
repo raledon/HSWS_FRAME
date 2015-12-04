@@ -34,18 +34,12 @@ class HealthController extends Controller{
             $date = date('Y-m-d');
         }
         $info = M('sleep')->where("userId=$userId")->select();
-        foreach ($info as $row){
-            if($row['startdate'] == $date){
-                $result["$row[infoid]"] = $row;
-            }
-        }
+        
         dump($result);
         return $result;
        // dump($info);
     }
-    private function getSleepByWeek(){
-        
-    }
+ 
     
     
 }
