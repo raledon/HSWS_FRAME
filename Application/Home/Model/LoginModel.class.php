@@ -34,6 +34,6 @@ class LoginModel extends Model {
      */
     protected $_auto = array (
         /* 登录的时候自动完成 */
-        array('password', 'md5', 3, 'function') , // 对password字段使用md5函数处理
+        //array('password', 'md5', 3, 'function') , // 对password字段使用md5函数处理
     );
 }

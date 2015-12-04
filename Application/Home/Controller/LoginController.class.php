@@ -28,9 +28,11 @@ class LoginController extends Controller{
         if (IS_POST) {
             // 实例化Login对象
             $login = D('login');
+            //dump($_POST);
             // 自动验证 创建数据集
+            
             if (!$data = $login->create()) {
-                // 防止输出中文乱码
+                dump($data);
                 header("Content-type: text/html; charset=utf-8");
                 exit($login->getError());
             }
@@ -65,42 +67,40 @@ class LoginController extends Controller{
     public function register()
     {
         // 判断提交方式 做不同处理
-        $data = array(
-            'name' =>I('name','','htmlspecialchars'),
-            'password' => I('password','','htmlspecialchars'),
-            
-        );
-                dump($data);
+        if(IS_POST){
+            $user = M('User');
+            //dump($_POST);
+            $data = $user->create();
+                        dump($user);
+                
+            dump($data);
 
-        if(M('user')->data($data)->add()){
-            $this->success();
-        }
-        if (IS_POST) {
-           
-            echo 111111;
-            // 实例化User对象
-            $user = D('user');
-            // 自动验证 创建数据集
-            if (!$data = $user->create()) {
-                // 防止输出中文乱码
-                header("Content-type: text/html; charset=utf-8");
-                exit($user->getError());
+            if($data){
+//                  $user->name = I('name','');
+//                  $user->password = I('password','');
+//                  $user->email = I('email','');
+//                  //$user->
+//                $data['name'] = I('name','');
+//                $data['password'] = I('password','');
+//                $data['email'] = I('email','');
+//                $data['mobile'] = I('mobile','');
+//                $data['character'] = I('character','');
+//                $data['gender'] = I('gender','');
+//                $data['slogan'] = I('slogan','');
+                
+                $lastId = $user->add();
+
+                echo $lastId;
+                if($lastId){
+                    echo '填写成功';
+                }else{
+                    echo '填写失败';
+                }
             }
-            echo $data['name'];
-            $id = $user->add($data);
-            //插入数据库
-            
-//            if ($id = $user->add($data)) {
-               /* 直接注册用户为超级管理员,子用户采用邀请注册的模式,
-                   遂设置公司id等于注册用户id,便于管理公司用户*/
-//                $user->where("userid = $id")->setField('companyid', $id);
-//                $this->success('注册成功', U('Index/index'), 2);
-//            } else {
-//                $this->error('注册失败');
-//            }
-        } else {
+        }else{
             $this->display();
         }
+        
     }
  
     /**

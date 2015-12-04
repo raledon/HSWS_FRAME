@@ -35,7 +35,7 @@ and open the template in the editor.
                     
                     <div class="inner cover">                                                    
                         <h1 class="cover-heading">登录</h1>
-                        <form action="/HSWS_FRAME/index.php?c=login&amp;a=login" method="post" class="form-signin lead">
+                        <form action="/HSWS_FRAME/index.php/Home/Login/login.html" method="post" class="form-signin lead">
                             <div>
                                 <label for="userId" class="sr-only">账号</label>
                                 <input type="text" name="userId" id="userId" class="form-control" placeholder="用户名" required autofocus>
