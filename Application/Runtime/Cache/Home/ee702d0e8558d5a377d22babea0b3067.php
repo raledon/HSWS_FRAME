@@ -1,7 +1,7 @@
 <?php if (!defined('THINK_PATH')) exit();?><!DOCTYPE html>
 <html>
     <head>
-        <title>主界面</title>
+        <title>睡眠管理</title>
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <meta name="description" content="用户主界面">
@@ -97,12 +97,25 @@
                                 </a>
                             </li>
                             <li>
-                                <a href="<?php echo U('health/index');?>" class="active">
+                                <a href="<?php echo U('health/health');?>">
                                     <i class="fa fa-heart fa-fw"></i>
-                                    我的健康
+                                    健康管理
                                 </a>                                                   
                             </li>
-                            
+                            <li class="active">
+                                <a href="<?php echo U('health/sleep');?>">
+                                    <i class="fa fa-moon-o fa-fw"></i>
+                                    睡眠管理
+                                </a>
+                            </li>
+                            <li>
+                                <a href="#">
+                                    <i class="fa fa-rocket"></i>
+                                    运动管理
+                                </a>
+                            </li>
+                            <li class="divider"></li>
+                            <li class="divider"></li>
                             <li class="divider"></li>
                             
                             <li>
@@ -111,6 +124,17 @@
                                     咨询医生
                                 </a>                               
                             </li>                                                   
+                            
+                            <li>
+                                <a href="#">
+                                    <i class="fa fa-envelope fa-fw"></i>
+                                    咨询历史
+                                </a>
+                            </li>
+                            
+                            <li class="divider"></li>
+                            <li class="divider"></li>
+                            <li class="divider"></li>
                             
                             <li>
                                 <a href="#">
@@ -127,17 +151,10 @@
             <div id="page-wrapper" style="min-height: 750px">
                 <div class="row">
                     <div class="col-lg-12">
-                        <h1 class="page-header">我的健康</h2>
+                        <h1 class="page-header">我的睡眠</h2>
                     </div>
                 </div>
-                <div class="row">
-                    <div class="col-lg-12">
-                        <ul class="nav nav-tabs nav-justified">
-                            <li role="presentation" ><a href="<?php echo U('health/index');?>" data-toggle="tab" class="active">健康管理</a></li>
-                            <li role="presentation"><a href="<?php echo U('health/index');?>" data-toggle="tab" >睡眠管理</a></li>
-                        </ul>                        
-                    </div>
-                </div>
+              
                 <div class="row">
                     <div class="col-lg-12 col-md-6">
                         <div class="panel panel-primary">
@@ -163,19 +180,19 @@
                             <div class="panel-body">
                                 <div class="row show-grid text-center">
                                     <div class="col-lg-3">
-                                        <h3>7hour</h3>
+                                        <h3><?php echo ($totalTime); ?></h3>
                                         <p>睡眠总时间</p>
                                     </div>
                                     <div class="col-lg-3">
-                                        <h3>21:20:12</h3>
+                                        <h3><?php echo ($startTime); ?></h3>
                                         <p>开始时间</p>
                                     </div>
                                     <div class="col-lg-3">
-                                        <h3>07:10:11</h3>
+                                        <h3><?php echo ($endTime); ?></h3>
                                         <p>结束时间</p>
                                     </div>
                                     <div class="col-lg-3">
-                                        <h3>5hour</h3>
+                                        <h3><?php echo ($validSleepTime); ?></h3>
                                         <p>有效睡眠时间</p>
                                     </div>
                                 </div>

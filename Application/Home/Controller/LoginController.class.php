@@ -32,11 +32,14 @@ class LoginController extends Controller{
             //dump($_POST);
             // 自动验证 创建数据集
             $data = $login->create();
+                        
+            dump($data);
+
             if(!$data){
                 echo 'error';
                 exit($login->getError());
             }
-            dump($data);
+            //dump($data);
             // 组合查询条件
            
             $result = $this->getUserById($data['userId']);
@@ -98,35 +101,7 @@ class LoginController extends Controller{
         
     }
  
-  
-    private function gatherInfo(array $data){
-        $info = array();
-        if(array_key_exists( 'userId', $data)){
-            $info['userId'] = I('userId','','trim');
-        }
-        if(array_key_exists('password', $data)){
-            $info['password'] = I('password','','trim');
-        }
-        if(array_key_exists('name', $data)){
-            $info['name'] = I('name','','trim');
-        }
-        if(array_key_exists('gender', $data)){
-            $info['gender'] = I('gender','');
-        }
-        if(array_key_exists('telephone', $data)){
-            $info['telephone'] = I('telephone','');
-        }
-        if(array_key_exists('email', $data)){
-            $info['email'] = I('email','');
-        }
-        if(array_key_exists('slogan', $data)){
-            $info['slogan'] = I('slogan', '');
-        }
-        if(array_key_exists('character', $data)){
-            $info['character'] = I('character','');
-        }
-        return $info;
-    }
+
     /**
      * 用户注销
      */

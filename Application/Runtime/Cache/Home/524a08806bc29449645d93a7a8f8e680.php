@@ -6,10 +6,10 @@ and open the template in the editor.
 -->
 <html>
     <head>
-        <title>登陆</title>
+        <title>注册</title>
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <meta name="description" content="系统登录">
+        <meta name="description" content="注册">
         <link href="/HSWS_FRAME/Public/bootstrap/css/bootstrap.min.css" rel="stylesheet">
         <link href="/HSWS_FRAME/Public/startbootstrap/bower_components/metisMenu/dist/metisMenu.min.css" rel="stylesheet">                
         <link href="/HSWS_FRAME/Public/startbootstrap/dist/css/sb-admin-2.css" rel="stylesheet">
@@ -72,7 +72,7 @@ and open the template in the editor.
                                                 <span class="input-group-addon">
                                                     <i class="fa fa-phone fa-fw"></i>
                                                 </span>
-                                                <input type="text" name="mobile" id="mobile" class="form-control" placeholder="联系方式">
+                                                <input type="text" name="telephone" id="telephone" class="form-control" placeholder="联系方式">
                                             </div>
                                             <div class="row">
                                                 <div class="col-lg-6">

@@ -1,19 +1,19 @@
-<!DOCTYPE html>
+<?php if (!defined('THINK_PATH')) exit();?><!DOCTYPE html>
 <html>
     <head>
         <title>咨询</title>
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <meta name="description" content="运动管理">
-        <link href="__PUBLIC__/bootstrap/css/bootstrap.min.css" rel="stylesheet">
-        <link href="__PUBLIC__/startbootstrap/bower_components/bootstrap/dist/css/bootstrap.min.css" rel="stylesheet">
-        <link href="__PUBLIC__/startbootstrap/bower_components/metisMenu/dist/metisMenu.min.css" rel="stylesheet">
-        <link href="__PUBLIC__/startbootstrap/dist/css/timeline.css" rel="stylesheet">
-        <link href="__PUBLIC__/startbootstrap/dist/css/sb-admin-2.css" rel="stylesheet">
-        <link href="__PUBLIC__/startbootstrap/bower_components/morrisjs/morris.css" rel="stylesheet">
-        <link href="__PUBLIC__/startbootstrap/bower_components/font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">
+        <link href="/HSWS_FRAME/Public/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+        <link href="/HSWS_FRAME/Public/startbootstrap/bower_components/bootstrap/dist/css/bootstrap.min.css" rel="stylesheet">
+        <link href="/HSWS_FRAME/Public/startbootstrap/bower_components/metisMenu/dist/metisMenu.min.css" rel="stylesheet">
+        <link href="/HSWS_FRAME/Public/startbootstrap/dist/css/timeline.css" rel="stylesheet">
+        <link href="/HSWS_FRAME/Public/startbootstrap/dist/css/sb-admin-2.css" rel="stylesheet">
+        <link href="/HSWS_FRAME/Public/startbootstrap/bower_components/morrisjs/morris.css" rel="stylesheet">
+        <link href="/HSWS_FRAME/Public/startbootstrap/bower_components/font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">
         <link rel="stylesheet" href="../../../../Public/bootstrap/css/bootstrap.min.css" type="text/css"/>
-        <link rel="stylesheet" href="__PUBLIC__/css/carousel.css" type="text/css">
+        <link rel="stylesheet" href="/HSWS_FRAME/Public/css/carousel.css" type="text/css">
       
 
     </head>
@@ -29,7 +29,7 @@
                         <span class="icon-bar"></span>
                         <span class="icon-bar"></span>                       
                     </button>
-                    <a class="navbar-brand" href="{:U('Index/index')}">RunningOwl</a>
+                    <a class="navbar-brand" href="<?php echo U('Index/index');?>">RunningOwl</a>
                 </div>
                 <ul class="nav navbar-top-links navbar-right">
                     <li class="dropdown">
@@ -91,19 +91,19 @@
                     <div class="sidebar-nav navbar-collapse">
                         <ul class="nav in" id="side-menu">
                             <li>
-                                <a href="{:U('main/index')}">
+                                <a href="<?php echo U('main/index');?>">
                                     <i class="fa fa-dashboard fa-fw"></i>
                                     用户主页
                                 </a>
                             </li>
                             <li>
-                                <a href="{:U('health/health')}">
+                                <a href="<?php echo U('health/health');?>">
                                     <i class="fa fa-heart fa-fw"></i>
                                     健康管理
                                 </a>                                                   
                             </li>
                             <li>
-                                <a href="{:U('health/sleep')}">
+                                <a href="<?php echo U('health/sleep');?>">
                                     <i class="fa fa-moon-o fa-fw"></i>
                                     睡眠管理
                                 </a>
@@ -119,14 +119,14 @@
                             <li class="divider"></li>
                             
                             <li  class='active'>
-                                <a href="{:U('advice/advice')}">
+                                <a href="<?php echo U('advice/advice');?>">
                                     <i class="fa fa-leaf fa-fw"></i>
                                     咨询医生
                                 </a>                               
                             </li>                                                   
                             
                             <li>
-                                <a href="{:U('advice/history')}">
+                                <a href="<?php echo U('advice/history');?>">
                                     <i class="fa fa-envelope fa-fw"></i>
                                     咨询历史
                                 </a>
@@ -178,7 +178,7 @@
                                 </ul>
                                 <div class="tab-content">
                                     <div class="tab-pane fade active in" id="doctor">
-                                        <form action="{:U('advice/adviceToDoctor')}" method="post" >
+                                        <form action="<?php echo U('advice/adviceToDoctor');?>" method="post" >
                                             <h3 class="text-center page-header huge">咨询医生</h3>
                                             <div class='form-group input-group'>
                                                 <span class='input-group-addon'><i class='fa fa-pencil'></i></span>
@@ -198,7 +198,7 @@
                                         </form>
                                     </div>
                                     <div class="tab-pane fade" id="coach">
-                                        <form action="{:U('advice/adviceToCoach')}" method='post'>
+                                        <form action="<?php echo U('advice/adviceToCoach');?>" method='post'>
                                             <h3 class='text-center page-header huge'>咨询教练</h3>
                                             <div class='form-group input-group'>
                                                 <span class='input-group-addon'><i class='fa fa-pencil'></i></span>
@@ -227,27 +227,25 @@
                                 <h3>最近查询</h3>
                             </div>
                             <div class="panel-body">
-                                <foreach name='adviceList' item='advice'>
-                                    <button class='btn btn-primary btn-lg list-group-item' data-toggle="modal" data-target="#{$advice['adviceid']}">
-                                        {$advice['topic']}
+                                <?php if(is_array($adviceList)): foreach($adviceList as $key=>$advice): ?><button class='btn btn-primary btn-lg list-group-item' data-toggle="modal" data-target="#<?php echo ($advice['adviceid']); ?>">
+                                        <?php echo ($advice['topic']); ?>
                                     </button>
-                                    <div class="modal fade" id="{$advice['adviceid']}" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+                                    <div class="modal fade" id="<?php echo ($advice['adviceid']); ?>" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
                                         <div class="modal-dialog">
                                             <div class="modal-content">
                                                 <div class="modal-header">
                                                     <button type="button" class="close" data-dismiss="modal" aria-hidden="true">X</button>
-                                                    <h4 class="modal-title" id="myModalLabel">{$advice['topic']}</h4>
+                                                    <h4 class="modal-title" id="myModalLabel"><?php echo ($advice['topic']); ?></h4>
                                                 </div>
                                                 <div class="modal-body">
-                                                    {$advice['content']}
+                                                    <?php echo ($advice['content']); ?>
                                                 </div>
                                                 <div class="modal-footer">
                                                     <button type="button" class="btn btn-default" data-dismiss="modal">关闭</button>
                                                 </div>
                                             </div>
                                         </div>
-                                    </div>
-                                </foreach>
+                                    </div><?php endforeach; endif; ?>
                             <!-- /.modal -->
                             </div>
                             
@@ -259,12 +257,12 @@
             </div>
         </div>
         
-        <script src="__PUBLIC__/startbootstrap/bower_components/jquery/dist/jquery.min.js"></script>
-        <script src="__PUBLIC__/startbootstrap/bower_components/bootstrap/dist/js/bootstrap.min.js"></script>
-        <script src="__PUBLIC__/startbootstrap/bower_components/metisMenu/dist/metisMenu.min.js"></script>
-        <script src="__PUBLIC__/startbootstrap/bower_components/raphael/raphael-min.js"></script>
-        <script src="__PUBLIC__/startbootstrap/bower_components/morrisjs/morris.min.js"></script>
-        <script src="__PUBLIC__/startbootstrap/js/morris-data.js"></script>
-        <script src="__PUBLIC__/startbootstrap/dist/js/sb-admin-2.js"></script>
+        <script src="/HSWS_FRAME/Public/startbootstrap/bower_components/jquery/dist/jquery.min.js"></script>
+        <script src="/HSWS_FRAME/Public/startbootstrap/bower_components/bootstrap/dist/js/bootstrap.min.js"></script>
+        <script src="/HSWS_FRAME/Public/startbootstrap/bower_components/metisMenu/dist/metisMenu.min.js"></script>
+        <script src="/HSWS_FRAME/Public/startbootstrap/bower_components/raphael/raphael-min.js"></script>
+        <script src="/HSWS_FRAME/Public/startbootstrap/bower_components/morrisjs/morris.min.js"></script>
+        <script src="/HSWS_FRAME/Public/startbootstrap/js/morris-data.js"></script>
+        <script src="/HSWS_FRAME/Public/startbootstrap/dist/js/sb-admin-2.js"></script>
     </body>
 </html>

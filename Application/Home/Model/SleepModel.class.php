@@ -13,8 +13,26 @@
  */
 namespace Home\Model;
 use Think\Model;
-class Sleep extends Model{
+class SleepModel extends Model{
     //put your code here
     protected $tableName = 'sleepInfo';
-    protected $fields = array('');
+    protected $fields = array('infoId', 'userId', 'startDate', 'startAt', 'endData', 'endAt','validSleepTime');
+    protected $pk = 'infoId';
+    
+    public function getSleepList($userId){
+        $result = $this->where("userId = $userId")->select();
+        return $result;
+    }
+    
+    public function getSleepByDay($userId, $date = null){
+        if($date == null){
+            $date = date('Y-m-d');
+        }
+        
+        $result = $this->where(array('userId' => $userId , 'startDate'=>$date))->find();
+        //dump($result);
+        return $result;
+    }
+    
+    
 }

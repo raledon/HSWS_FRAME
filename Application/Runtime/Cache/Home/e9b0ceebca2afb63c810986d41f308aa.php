@@ -1,19 +1,19 @@
-<!DOCTYPE html>
+<?php if (!defined('THINK_PATH')) exit();?><!DOCTYPE html>
 <html>
     <head>
         <title>历史咨询</title>
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <meta name="description" content="历史咨询">
-        <link href="__PUBLIC__/bootstrap/css/bootstrap.min.css" rel="stylesheet">
-        <link href="__PUBLIC__/startbootstrap/bower_components/bootstrap/dist/css/bootstrap.min.css" rel="stylesheet">
-        <link href="__PUBLIC__/startbootstrap/bower_components/metisMenu/dist/metisMenu.min.css" rel="stylesheet">
-        <link href="__PUBLIC__/startbootstrap/dist/css/timeline.css" rel="stylesheet">
-        <link href="__PUBLIC__/startbootstrap/dist/css/sb-admin-2.css" rel="stylesheet">
-        <link href="__PUBLIC__/startbootstrap/bower_components/morrisjs/morris.css" rel="stylesheet">
-        <link href="__PUBLIC__/startbootstrap/bower_components/font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">
+        <link href="/HSWS_FRAME/Public/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+        <link href="/HSWS_FRAME/Public/startbootstrap/bower_components/bootstrap/dist/css/bootstrap.min.css" rel="stylesheet">
+        <link href="/HSWS_FRAME/Public/startbootstrap/bower_components/metisMenu/dist/metisMenu.min.css" rel="stylesheet">
+        <link href="/HSWS_FRAME/Public/startbootstrap/dist/css/timeline.css" rel="stylesheet">
+        <link href="/HSWS_FRAME/Public/startbootstrap/dist/css/sb-admin-2.css" rel="stylesheet">
+        <link href="/HSWS_FRAME/Public/startbootstrap/bower_components/morrisjs/morris.css" rel="stylesheet">
+        <link href="/HSWS_FRAME/Public/startbootstrap/bower_components/font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">
         <link rel="stylesheet" href="../../../../Public/bootstrap/css/bootstrap.min.css" type="text/css"/>
-        <link rel="stylesheet" href="__PUBLIC__/css/carousel.css" type="text/css">
+        <link rel="stylesheet" href="/HSWS_FRAME/Public/css/carousel.css" type="text/css">
       
 
     </head>
@@ -29,7 +29,7 @@
                         <span class="icon-bar"></span>
                         <span class="icon-bar"></span>                       
                     </button>
-                    <a class="navbar-brand" href="{:U('Index/index')}">RunningOwl</a>
+                    <a class="navbar-brand" href="<?php echo U('Index/index');?>">RunningOwl</a>
                 </div>
                 <ul class="nav navbar-top-links navbar-right">
                     <li class="dropdown">
@@ -91,25 +91,25 @@
                     <div class="sidebar-nav navbar-collapse">
                         <ul class="nav in" id="side-menu">
                             <li>
-                                <a href="{:U('main/index')}">
+                                <a href="<?php echo U('main/index');?>">
                                     <i class="fa fa-dashboard fa-fw"></i>
                                     用户主页
                                 </a>
                             </li>
                             <li>
-                                <a href="{:U('health/health')}">
+                                <a href="<?php echo U('health/health');?>">
                                     <i class="fa fa-heart fa-fw"></i>
                                     健康管理
                                 </a>                                                   
                             </li>
                             <li>
-                                <a href="{:U('health/sleep')}">
+                                <a href="<?php echo U('health/sleep');?>">
                                     <i class="fa fa-moon-o fa-fw"></i>
                                     睡眠管理
                                 </a>
                             </li>
                             <li>
-                                <a href="{:U('health/exercise')}">
+                                <a href="<?php echo U('health/exercise');?>">
                                     <i class="fa fa-rocket"></i>
                                     运动管理
                                 </a>
@@ -119,14 +119,14 @@
                             <li class="divider"></li>
                             
                             <li>
-                                <a href="{:U('advice/advice')}">
+                                <a href="<?php echo U('advice/advice');?>">
                                     <i class="fa fa-leaf fa-fw"></i>
                                     咨询医生
                                 </a>                               
                             </li>                                                   
                             
                             <li>
-                                <a href="{:U('advice/history')}">
+                                <a href="<?php echo U('advice/history');?>">
                                     <i class="fa fa-envelope fa-fw"></i>
                                     咨询历史
                                 </a>
@@ -163,13 +163,11 @@
                             </div>
                         <!-- /.panel-heading -->
                             <div class="panel-body">
-                                <foreach name="latestReply" item="reply">
-                                    <div class="alert alert-success alert-dismissable">
+                                <?php if(is_array($latestReply)): foreach($latestReply as $key=>$reply): ?><div class="alert alert-success alert-dismissable">
                                         <button type="button" class="close" data-dismiss="alert" aria-hidden="true">X</button>
-                                        <span><i class='fa fa-heart'><strong>问题:{$reply['topic']}</strong></i></span>
-                                        <p><span><i class='fa fa-anchor'>答案:{$reply['content']}</i></span></p>
-                                    </div>
-                                </foreach>
+                                        <span><i class='fa fa-heart'><strong>问题:<?php echo ($reply['topic']); ?></strong></i></span>
+                                        <p><span><i class='fa fa-anchor'>答案:<?php echo ($reply['content']); ?></i></span></p>
+                                    </div><?php endforeach; endif; ?>
                       
                             </div>
                         <!-- .panel-body -->
@@ -232,12 +230,12 @@
             </div>
         </div>
         
-        <script src="__PUBLIC__/startbootstrap/bower_components/jquery/dist/jquery.min.js"></script>
-        <script src="__PUBLIC__/startbootstrap/bower_components/bootstrap/dist/js/bootstrap.min.js"></script>
-        <script src="__PUBLIC__/startbootstrap/bower_components/metisMenu/dist/metisMenu.min.js"></script>
-        <script src="__PUBLIC__/startbootstrap/bower_components/raphael/raphael-min.js"></script>
-        <script src="__PUBLIC__/startbootstrap/bower_components/morrisjs/morris.min.js"></script>
-        <script src="__PUBLIC__/startbootstrap/js/morris-data.js"></script>
-        <script src="__PUBLIC__/startbootstrap/dist/js/sb-admin-2.js"></script>
+        <script src="/HSWS_FRAME/Public/startbootstrap/bower_components/jquery/dist/jquery.min.js"></script>
+        <script src="/HSWS_FRAME/Public/startbootstrap/bower_components/bootstrap/dist/js/bootstrap.min.js"></script>
+        <script src="/HSWS_FRAME/Public/startbootstrap/bower_components/metisMenu/dist/metisMenu.min.js"></script>
+        <script src="/HSWS_FRAME/Public/startbootstrap/bower_components/raphael/raphael-min.js"></script>
+        <script src="/HSWS_FRAME/Public/startbootstrap/bower_components/morrisjs/morris.min.js"></script>
+        <script src="/HSWS_FRAME/Public/startbootstrap/js/morris-data.js"></script>
+        <script src="/HSWS_FRAME/Public/startbootstrap/dist/js/sb-admin-2.js"></script>
     </body>
 </html>

@@ -14,4 +14,13 @@ function is_login(){
     
 }
 
+function getUserById($id){
+    $result = M('user')->where("userId=$id")->find();
+    dump($result);
+    return $result;
+}
+
+function sleepLevel(){
+    
+}
 ?>
